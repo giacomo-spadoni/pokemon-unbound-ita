@@ -1,0 +1,7784 @@
+[
+{
+"id": "v7_0028780",
+"category": "battle_messages",
+"address": "0x28780",
+"pointer_sources": [
+"0x2874C"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s type became\nthe same as \\\\10’s!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_01963CD",
+"category": "v7_texts",
+"address": "0x1963CD",
+"pointer_sources": [
+"0x16C419"
+],
+"byte_length": 63,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Wow! Excellent!\nYou completed your Pokédex!\\lCongratulations!\\l\\.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_0196984",
+"category": "v7_texts",
+"address": "0x196984",
+"pointer_sources": [
+"0x16C6A5"
+],
+"byte_length": 88,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Welcome to Dehara Game Corner!\n\nDo you need some game coins?\nWould you like to buy some?\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_01A52F0",
+"category": "v7_texts",
+"address": "0x1A52F0",
+"pointer_sources": [
+"0x1A6799"
+],
+"byte_length": 17,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Obtained the [buffer2]!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_01A54E1",
+"category": "v7_texts",
+"address": "0x1A54E1",
+"pointer_sources": [
+"0x1A65BB"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Okay, I’ll take your Pokémon for a\nfew seconds.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_01A552B",
+"category": "v7_texts",
+"address": "0x1A552B",
+"pointer_sources": [
+"0x1A661E"
+],
+"byte_length": 67,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Thank you for waiting.\nWe’ve restored your Pokémon to\\lfull health.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_01B1E24",
+"category": "v7_texts",
+"address": "0x1B1E24",
+"pointer_sources": [
+"0x1B289F"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Please choose the print type.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_01BCCCA",
+"category": "v7_texts",
+"address": "0x1BCCCA",
+"pointer_sources": [
+"0x1A664B"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"It appears as if [buffer1] is playing\nright now.\\lGo for it!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_01BF017",
+"category": "v7_texts",
+"address": "0x1BF017",
+"pointer_sources": [
+"0x1BEE45"
+],
+"byte_length": 60,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Tell me something good about\nyourself. What’s your profile?\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_01BF72A",
+"category": "v7_texts",
+"address": "0x1BF72A",
+"pointer_sources": [
+"0x7545D6"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] received the Egg from\nthe Day-Care Man.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_02779D5",
+"category": "battle_messages",
+"address": "0x2779D5",
+"pointer_sources": [
+"0x3074B2"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Pointed stones dug into\n\\\\00!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_02779F2",
+"category": "battle_messages",
+"address": "0x2779F2",
+"pointer_sources": [
+"0x307535"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\00 was caught in\na sticky web!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0277A12",
+"category": "battle_messages",
+"address": "0x277A12",
+"pointer_sources": [
+"0x3072D5"
+],
+"byte_length": 46,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The spikes disappeared from around\n\\\\0F’s feet!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_041678E",
+"category": "v7_texts",
+"address": "0x41678E",
+"pointer_sources": [
+"0x9BE4C"
+],
+"byte_length": 45,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1], and you want [buffer2].\nThat will be $[buffer3]. Okay?\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0416A1E",
+"category": "v7_texts",
+"address": "0x416A1E",
+"pointer_sources": [
+"0x127CA8"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] can’t be switched\nout![pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0416A55",
+"category": "v7_texts",
+"address": "0x416A55",
+"pointer_sources": [
+"0x127BD4"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] has already been\nselected.[pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0416A75",
+"category": "v7_texts",
+"address": "0x416A75",
+"pointer_sources": [
+"0x127B38"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] has no energy\nleft to battle![pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0417052",
+"category": "v7_texts",
+"address": "0x417052",
+"pointer_sources": [
+"0x12513C"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] snapped out of its\nconfusion.[pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0417075",
+"category": "v7_texts",
+"address": "0x417075",
+"pointer_sources": [
+"0x125150"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] got over its\ninfatuation.[pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041A255",
+"category": "v7_texts",
+"address": "0x41A255",
+"pointer_sources": [
+"0x114148"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] learned the move\n[buffer2] from a TM.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041A277",
+"category": "v7_texts",
+"address": "0x41A277",
+"pointer_sources": [
+"0x114114"
+],
+"byte_length": 57,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] learned the move\n[buffer2] from a TM and forgot\nthe move [buffer3].\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041A2E1",
+"category": "v7_texts",
+"address": "0x41A2E1",
+"pointer_sources": [
+"0x115144"
+],
+"byte_length": 49,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"\\?00 had a marvelous battle\nwith the Champion, \\?01.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041A3DA",
+"category": "v7_texts",
+"address": "0x41A3DA",
+"pointer_sources": [
+"0x114D14"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] withdrew the item [buffer1]\nfrom the PC.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041A8E0",
+"category": "v7_texts",
+"address": "0x41A8E0",
+"pointer_sources": [
+"0x456C48"
+],
+"byte_length": 44,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] shared its HP using the move\nSOFTBOILED.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041A90C",
+"category": "v7_texts",
+"address": "0x41A90C",
+"pointer_sources": [
+"0x456C44"
+],
+"byte_length": 44,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] shared its HP using the move\nMILK DRINK.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041A938",
+"category": "v7_texts",
+"address": "0x41A938",
+"pointer_sources": [
+"0x114130"
+],
+"byte_length": 45,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] securely learned the move\n[buffer2] using an HM.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041A965",
+"category": "v7_texts",
+"address": "0x41A965",
+"pointer_sources": [
+"0x114100"
+],
+"byte_length": 68,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] securely learned the move\n[buffer2] using an HM and forgot\nthe move [buffer3].\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041ABAB",
+"category": "v7_texts",
+"address": "0x41ABAB",
+"pointer_sources": [
+"0x456C24"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used the Hidden Move\nCUT here.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041ABCD",
+"category": "v7_texts",
+"address": "0x41ABCD",
+"pointer_sources": [
+"0x456C28"
+],
+"byte_length": 44,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used the Hidden Move\nFLY and flew to [buffer2].\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041ABF9",
+"category": "v7_texts",
+"address": "0x41ABF9",
+"pointer_sources": [
+"0x456C30"
+],
+"byte_length": 49,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used the Hidden Move\nSURF and rode the waves.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AC2A",
+"category": "v7_texts",
+"address": "0x41AC2A",
+"pointer_sources": [
+"0x456C2C"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used the Hidden Move\nSTRENGTH here.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AC51",
+"category": "v7_texts",
+"address": "0x41AC51",
+"pointer_sources": [
+"0x456C20"
+],
+"byte_length": 66,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used the Hidden Move\nFLASH and illuminated a pitch-black\ncave.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AC93",
+"category": "v7_texts",
+"address": "0x41AC93",
+"pointer_sources": [
+"0x456C34"
+],
+"byte_length": 41,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used the Hidden Move\nROCK SMASH here.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041ACBC",
+"category": "v7_texts",
+"address": "0x41ACBC",
+"pointer_sources": [
+"0x456C38"
+],
+"byte_length": 61,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used the Hidden Move\nWATERFALL to scale a raging torrent.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AD1D",
+"category": "v7_texts",
+"address": "0x41AD1D",
+"pointer_sources": [
+"0x456C40"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used DIG to escape from\n[buffer2].\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AD3C",
+"category": "v7_texts",
+"address": "0x41AD3C",
+"pointer_sources": [
+"0x456C4C"
+],
+"byte_length": 45,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used SWEET SCENT to attract\nwild Pokémon.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AD69",
+"category": "v7_texts",
+"address": "0x41AD69",
+"pointer_sources": [
+"0x456C3C"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] used TELEPORT, transporting\nthe party to [buffer2]’s\n[buffer3].\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AD9E",
+"category": "v7_texts",
+"address": "0x41AD9E",
+"pointer_sources": [
+"0x456BC0"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] left [buffer1]’s\n[buffer2] for the next\ndestination.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AEA7",
+"category": "v7_texts",
+"address": "0x41AEA7",
+"pointer_sources": [
+"0x456BD4"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] had a great time with Pokémon\nin the SAFARI ZONE.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041AFA6",
+"category": "v7_texts",
+"address": "0x41AFA6",
+"pointer_sources": [
+"0x114030"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] used an ESCAPE ROPE to get\nout from [buffer2].\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041B005",
+"category": "v7_texts",
+"address": "0x41B005",
+"pointer_sources": [
+"0x456BE0"
+],
+"byte_length": 58,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] departed from\n[buffer2] and made way\nto the next destination.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041B295",
+"category": "v7_texts",
+"address": "0x41B295",
+"pointer_sources": [
+"0x11D3D4"
+],
+"byte_length": 18,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"’s level rose to\n\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041B3AA",
+"category": "v7_texts",
+"address": "0x41B3AA",
+"pointer_sources": [
+"0x129684"
+],
+"byte_length": 20,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"\\?00 joined the chat!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041B3BE",
+"category": "v7_texts",
+"address": "0x41B3BE",
+"pointer_sources": [
+"0x1296E8"
+],
+"byte_length": 18,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"\\?00 left the chat.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041B4C6",
+"category": "v7_texts",
+"address": "0x41B4C6",
+"pointer_sources": [
+"0x45ABD0"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"\\?00 saved the game.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041B554",
+"category": "v7_texts",
+"address": "0x41B554",
+"pointer_sources": [
+"0x7F53C",
+"0x88345C",
+"0x1EC2244"
+],
+"byte_length": 98,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] scurried to a Pokémon Center,\nprotecting the exhausted and fainted\nPokémon from further harm\\.\n\n\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041B5B6",
+"category": "v7_texts",
+"address": "0x41B5B6",
+"pointer_sources": [
+"0x7F578",
+"0x883460",
+"0x9FFF8C",
+"0x1EC2274"
+],
+"byte_length": 88,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] scurried back home, protecting\nthe exhausted and fainted Pokémon from\nfurther harm\\.\n\n\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_041B6FD",
+"category": "v7_texts",
+"address": "0x41B6FD",
+"pointer_sources": [
+"0x474E0"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] hatched from the Egg!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0459250",
+"category": "v7_texts",
+"address": "0x459250",
+"pointer_sources": [
+"0x1163AC"
+],
+"byte_length": 60,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[buffer1] has been asked to register\nyou as a member. Please wait.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_075CAF2",
+"category": "v7_texts",
+"address": "0x75CAF2",
+"pointer_sources": [
+"0x75C95D"
+],
+"byte_length": 33,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] received a Poké Ball from\n[rival]!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07649D7",
+"category": "v7_texts",
+"address": "0x7649D7",
+"pointer_sources": [
+"0x883454"
+],
+"byte_length": 100,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] scurried to the nearest healer,\nprotecting the exhausted and fainted\nPokémon from further harm\\.\n\n\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_07714B3",
+"category": "v7_texts",
+"address": "0x7714B3",
+"pointer_sources": [
+"0x771406"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"You received a Riolu from the\nOld Man!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07D8F5A",
+"category": "v7_texts",
+"address": "0x7D8F5A",
+"pointer_sources": [
+"0x7D8E9F"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Which floor do you want?\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07EE108",
+"category": "v7_texts",
+"address": "0x7EE108",
+"pointer_sources": [
+"0x7EDE1B"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[player] received the [buffer1]\nfrom the scientist!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07EE8F6",
+"category": "v7_texts",
+"address": "0x7EE8F6",
+"pointer_sources": [
+"0x7EE72E"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"You received a Lapras from the\nfisherman!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07F2295",
+"category": "v7_texts",
+"address": "0x7F2295",
+"pointer_sources": [
+"0x7F1BE2"
+],
+"byte_length": 50,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Grunt: [red]They’re coming up the\nstairs, not down!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07F5680",
+"category": "v7_texts",
+"address": "0x7F5680",
+"pointer_sources": [
+"0x7F42F9"
+],
+"byte_length": 113,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"[blue][player], [player], [player].\n\nYou’re the only one left now.\n\nSo, do you plan on trying to stop\nme, or are you going to run away?\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07F8DFA",
+"category": "v7_texts",
+"address": "0x7F8DFA",
+"pointer_sources": [
+"0x7F8D51"
+],
+"byte_length": 33,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Then gimme your Pokémon already.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07FA85F",
+"category": "v7_texts",
+"address": "0x7FA85F",
+"pointer_sources": [
+"0x7FA40D"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Here comes the Pokémon!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_07FDC0A",
+"category": "v7_texts",
+"address": "0x7FDC0A",
+"pointer_sources": [
+"0x7FD977",
+"0x7FD98A"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Ha ha ha ha!\n\nThey should start calling you\nBig [player]!\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_080DC10",
+"category": "battle_messages",
+"address": "0x80DC10",
+"pointer_sources": [
+"0x80DBE8"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F lost some\nof its HP!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0825660",
+"category": "battle_messages",
+"address": "0x825660",
+"pointer_sources": [
+"0x800DF5"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The fog disappeared.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0830CE0",
+"category": "battle_messages",
+"address": "0x830CE0",
+"pointer_sources": [
+"0x8B855F"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nmade it rain!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0830CF6",
+"category": "battle_messages",
+"address": "0x830CF6",
+"pointer_sources": [
+"0x8B8537"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nintensified the sun’s rays!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0830D1A",
+"category": "battle_messages",
+"address": "0x830D1A",
+"pointer_sources": [
+"0x8B8587"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nwhipped up a sandstorm!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08835B0",
+"category": "battle_messages",
+"address": "0x8835B0",
+"pointer_sources": [
+"0xA05E4"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[buffer1] survived the poisoning.\nThe poison faded away!\n\n\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_08A0D00",
+"category": "battle_messages",
+"address": "0x8A0D00",
+"pointer_sources": [
+"0x8A0CDC"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F restored\na little HP using its \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08A3D40",
+"category": "battle_messages",
+"address": "0x8A3D40",
+"pointer_sources": [
+"0x8A3CFC",
+"0x8BF139"
+],
+"byte_length": 17,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nhurt \\\\0F!\"",
+"source_kinds": [
+"aligned",
+"fa"
+]
+},
+{
+"id": "v7_08A3E50",
+"category": "battle_messages",
+"address": "0x8A3E50",
+"pointer_sources": [
+"0x8A3DEC"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nactivated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08A9876",
+"category": "battle_messages",
+"address": "0x8A9876",
+"pointer_sources": [
+"0x8A94AC"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 protected the\nopponent’s team!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_08A9898",
+"category": "battle_messages",
+"address": "0x8A9898",
+"pointer_sources": [
+"0x8A94B0"
+],
+"byte_length": 56,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F intends to flip up a mat\nand block incoming attacks!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_08A9944",
+"category": "battle_messages",
+"address": "0x8A9944",
+"pointer_sources": [
+"0x8A979A"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18 sharply\nraised its \\\\00!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08A9954",
+"category": "battle_messages",
+"address": "0x8A9954",
+"pointer_sources": [
+"0x8BF007"
+],
+"byte_length": 15,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"raised its \\\\00!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08A9BB0",
+"category": "battle_messages",
+"address": "0x8A9BB0",
+"pointer_sources": [
+"0x8A9B69"
+],
+"byte_length": 59,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The protection effects were lifted\nfrom the target’s side!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08A9C40",
+"category": "battle_messages",
+"address": "0x8A9C40",
+"pointer_sources": [
+"0x8A9A82"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F vanished\ninstantly!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08AA856",
+"category": "battle_messages",
+"address": "0x8AA856",
+"pointer_sources": [
+"0x8AA636"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Which appliance’s motors will you\nallow [buffer2] to enter?\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_08ABDC0",
+"category": "battle_messages",
+"address": "0x8ABDC0",
+"pointer_sources": [
+"0x90AADD"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F can’t use\n\\\\14 after the Heal Block!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08AC410",
+"category": "battle_messages",
+"address": "0x8AC410",
+"pointer_sources": [
+"0x8AC3DC"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nreduced \\\\14’s power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B4EC0",
+"category": "battle_messages",
+"address": "0x8B4EC0",
+"pointer_sources": [
+"0x8B4EA6"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nraised its Special Attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B5030",
+"category": "battle_messages",
+"address": "0x8B5030",
+"pointer_sources": [
+"0x8B5016",
+"0x8B52F6"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nraised its Attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B50A0",
+"category": "battle_messages",
+"address": "0x8B50A0",
+"pointer_sources": [
+"0x8BEFC7"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s Adrenaline Orb\nraised its Speed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B5B10",
+"category": "battle_messages",
+"address": "0x8B5B10",
+"pointer_sources": [
+"0x8B5ABD"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 is switched\nout with the \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B5C70",
+"category": "battle_messages",
+"address": "0x8B5C70",
+"pointer_sources": [
+"0x8B5C15",
+"0x8B5C3D"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 held up its\n\\\\16 against \\\\0F!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B5C90",
+"category": "battle_messages",
+"address": "0x8B5C90",
+"pointer_sources": [
+"0x8B5C4E"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But \\\\0F anchored\nitself with its roots!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B5CC0",
+"category": "battle_messages",
+"address": "0x8B5CC0",
+"pointer_sources": [
+"0x8B5C26"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But \\\\0F anchors\nitself with \\\\18!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B68A0",
+"category": "battle_messages",
+"address": "0x8B68A0",
+"pointer_sources": [
+"0x8B6802"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F stopped\nschooling!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B68C0",
+"category": "battle_messages",
+"address": "0x8B68C0",
+"pointer_sources": [
+"0x8B67A2"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nactivated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B6D90",
+"category": "battle_messages",
+"address": "0x8B6D90",
+"pointer_sources": [
+"0x8C332D"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became\nAsh-Greninja!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B6FF0",
+"category": "battle_messages",
+"address": "0x8B6FF0",
+"pointer_sources": [
+"0x8B6FC7",
+"0x8B7047",
+"0x90BFED"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nactivated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7010",
+"category": "battle_messages",
+"address": "0x8B7010",
+"pointer_sources": [
+"0x8B6FDA"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F transformed\ninto its blade form!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7070",
+"category": "battle_messages",
+"address": "0x8B7070",
+"pointer_sources": [
+"0x8B705A"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F transformed\ninto its shield form!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7270",
+"category": "battle_messages",
+"address": "0x8B7270",
+"pointer_sources": [
+"0x8B71E6"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The bursting flame hit\n\\\\10!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B74F0",
+"category": "battle_messages",
+"address": "0x8B74F0",
+"pointer_sources": [
+"0x8B74D6"
+],
+"byte_length": 45,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nturned the sunlight extremely harsh!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7580",
+"category": "battle_messages",
+"address": "0x8B7580",
+"pointer_sources": [
+"0x8B7566"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\ncaused a heavy rain to fall!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7610",
+"category": "battle_messages",
+"address": "0x8B7610",
+"pointer_sources": [
+"0x8B75E8"
+],
+"byte_length": 77,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nsummoned a mysterious air current\\lthat protects Flying-type Pokemon!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7960",
+"category": "battle_messages",
+"address": "0x8B7960",
+"pointer_sources": [
+"0x8B7948"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 surrounds itself\nwith psychic terrain!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7C90",
+"category": "battle_messages",
+"address": "0x8B7C90",
+"pointer_sources": [
+"0x8B7C69"
+],
+"byte_length": 14,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shuddered!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7F30",
+"category": "battle_messages",
+"address": "0x8B7F30",
+"pointer_sources": [
+"0x8B7EFB"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s disguise\nserved as its decoy!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B7F60",
+"category": "battle_messages",
+"address": "0x8B7F60",
+"pointer_sources": [
+"0x8B7F1C"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s disguise\nwas busted!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B8030",
+"category": "battle_messages",
+"address": "0x8B8030",
+"pointer_sources": [
+"0x8B813A"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 is tormented\nby \\\\0F’s \\\\18!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B8180",
+"category": "battle_messages",
+"address": "0x8B8180",
+"pointer_sources": [
+"0x8B8165"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F found one\n\\\\16 with \\\\18!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B8280",
+"category": "battle_messages",
+"address": "0x8B8280",
+"pointer_sources": [
+"0x8B825A"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F harvested\none \\\\16 with \\\\18!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B84A0",
+"category": "battle_messages",
+"address": "0x8B84A0",
+"pointer_sources": [
+"0x8B8474"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nmade your team too nervous to\\leat berries!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B84E0",
+"category": "battle_messages",
+"address": "0x8B84E0",
+"pointer_sources": [
+"0x8B8488"
+],
+"byte_length": 59,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18 made the opposing\nteam too nervous to eat berries!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B8630",
+"category": "battle_messages",
+"address": "0x8B8630",
+"pointer_sources": [
+"0x8BB65A",
+"0x8C31D5"
+],
+"byte_length": 18,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 took over \n\\\\19!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B8C52",
+"category": "battle_messages",
+"address": "0x8B8C52",
+"pointer_sources": [
+"0x8B8C46"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\npoisoned \\\\10!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9010",
+"category": "battle_messages",
+"address": "0x8B9010",
+"pointer_sources": [
+"0x8B8DB6"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Your team’s tailwind petered out!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9032",
+"category": "battle_messages",
+"address": "0x8B9032",
+"pointer_sources": [
+"0x8B8DD6"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The opposing team’s tailwind\npetered out!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B905C",
+"category": "battle_messages",
+"address": "0x8B905C",
+"pointer_sources": [
+"0x8B8E06"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Your team’s Lucky Chant wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B907E",
+"category": "battle_messages",
+"address": "0x8B907E",
+"pointer_sources": [
+"0x8B8E26"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The opposing team’s Lucky Chant\nwore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B90A8",
+"category": "battle_messages",
+"address": "0x8B90A8",
+"pointer_sources": [
+"0x8B8E56"
+],
+"byte_length": 45,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The rainbow on your team’s side\ndisappeared!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B90D5",
+"category": "battle_messages",
+"address": "0x8B90D5",
+"pointer_sources": [
+"0x8B8E76"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The rainbow on the opposing team’s\nside disappeared!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B910A",
+"category": "battle_messages",
+"address": "0x8B910A",
+"pointer_sources": [
+"0x8B8EA6"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The sea of fire disappeared from\naround your team!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B913D",
+"category": "battle_messages",
+"address": "0x8B913D",
+"pointer_sources": [
+"0x8B8EC6"
+],
+"byte_length": 59,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The sea of fire disappeared from\naround the opposing team!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9178",
+"category": "battle_messages",
+"address": "0x8B9178",
+"pointer_sources": [
+"0x8B8EF6"
+],
+"byte_length": 40,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The swamp around your team\ndisappeared!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B91A0",
+"category": "battle_messages",
+"address": "0x8B91A0",
+"pointer_sources": [
+"0x8B8F16"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The swamp around the opposing\nteam disappeared!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B91D0",
+"category": "battle_messages",
+"address": "0x8B91D0",
+"pointer_sources": [
+"0x8B8F36",
+"0x90F722"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The twisted dimensions returned\nto normal!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B91FB",
+"category": "battle_messages",
+"address": "0x8B91FB",
+"pointer_sources": [
+"0x8B8F56"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Water Sport’s effects wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B921B",
+"category": "battle_messages",
+"address": "0x8B921B",
+"pointer_sources": [
+"0x8B8F76"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Mud Sport’s effects wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9239",
+"category": "battle_messages",
+"address": "0x8B9239",
+"pointer_sources": [
+"0x8B8F96",
+"0x90F765"
+],
+"byte_length": 77,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Wonder Room wore off, and the Defense\nand Sp. Def. stats returned to normal!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B92C7",
+"category": "battle_messages",
+"address": "0x8B92C7",
+"pointer_sources": [
+"0x8B8FD6",
+"0x90F879"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Gravity returned to normal!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9460",
+"category": "battle_messages",
+"address": "0x8B9460",
+"pointer_sources": [
+"0x8B94EA"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is hurt by\nthe sea of fire!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9480",
+"category": "battle_messages",
+"address": "0x8B9480",
+"pointer_sources": [
+"0x8B9546"
+],
+"byte_length": 41,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The grassy terrain restored\n\\\\0F’s health!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B99B0",
+"category": "battle_messages",
+"address": "0x8B99B0",
+"pointer_sources": [
+"0x8B999C"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\16\nrestored its mental state!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9A40",
+"category": "battle_messages",
+"address": "0x8B9A40",
+"pointer_sources": [
+"0x8B9A8E",
+"0x8B9AEE"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1A\nrestored its HP!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9AA0",
+"category": "battle_messages",
+"address": "0x8B9AA0",
+"pointer_sources": [
+"0x9080D5"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nrestored its HP!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9BD0",
+"category": "battle_messages",
+"address": "0x8B9BD0",
+"pointer_sources": [
+"0x8B9BC0"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 avoids\nattacks by its ally Pokémon!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9D20",
+"category": "battle_messages",
+"address": "0x8B9D20",
+"pointer_sources": [
+"0x8B9EA9",
+"0x8BF226"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nraised its Defense!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08B9D40",
+"category": "battle_messages",
+"address": "0x8B9D40",
+"pointer_sources": [
+"0x8B519A",
+"0x8B9F06"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nraised its Special Defense!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BA160",
+"category": "battle_messages",
+"address": "0x8BA160",
+"pointer_sources": [
+"0x8BA1A1"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The \\\\16 strengthened\nthe power of [player]\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BA360",
+"category": "battle_messages",
+"address": "0x8BA360",
+"pointer_sources": [
+"0x8BA31F"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shared its\n\\\\16 with \\\\10\\lusing \\\\18!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BA890",
+"category": "battle_messages",
+"address": "0x8BA890",
+"pointer_sources": [
+"0x8BA6BA"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The heavy rain has lifted!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BA8B0",
+"category": "battle_messages",
+"address": "0x8BA8B0",
+"pointer_sources": [
+"0x8BA6DD"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The extremely harsh sunlight faded!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BAEE0",
+"category": "battle_messages",
+"address": "0x8BAEE0",
+"pointer_sources": [
+"0x8BAFF9"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\16\nlet it move first!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BB200",
+"category": "battle_messages",
+"address": "0x8BB200",
+"pointer_sources": [
+"0x8BB268"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F floats in\nthe air with its Air Balloon!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BB430",
+"category": "battle_messages",
+"address": "0x8BB430",
+"pointer_sources": [
+"0x8BB4E2"
+],
+"byte_length": 55,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s\nPrimal Reversion!\n\nIt reverted to its primal form!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BB720",
+"category": "battle_messages",
+"address": "0x8BB720",
+"pointer_sources": [
+"0x8BB70B"
+],
+"byte_length": 16,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\npopped!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BBB80",
+"category": "battle_messages",
+"address": "0x8BBB80",
+"pointer_sources": [
+"0x8B682C",
+"0x8BD35B"
+],
+"byte_length": 16,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F transformed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BBE50",
+"category": "battle_messages",
+"address": "0x8BBE50",
+"pointer_sources": [
+"0x8BC0C3"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s\nelectromagnetism wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BBE70",
+"category": "battle_messages",
+"address": "0x8BBE70",
+"pointer_sources": [
+"0x8BC0F6",
+"0x8BC5E3",
+"0x8BCD83"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F was freed\nfrom the telekinesis!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BBEA0",
+"category": "battle_messages",
+"address": "0x8BBEA0",
+"pointer_sources": [
+"0x8BC110",
+"0x8BCD02",
+"0x8BCD9E"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s\nHeal Block wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BBEC0",
+"category": "battle_messages",
+"address": "0x8BBEC0",
+"pointer_sources": [
+"0x8B8D66",
+"0x8BCD2F",
+"0x8BCDCB"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Your team’s Aurora Veil\nwore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BBEF0",
+"category": "battle_messages",
+"address": "0x8BBEF0",
+"pointer_sources": [
+"0x8B8D86",
+"0x8BCD4F",
+"0x8BCDEB"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The opposing team’s Aurora Veil\nwore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BC230",
+"category": "battle_messages",
+"address": "0x8BC230",
+"pointer_sources": [
+"0x8BBB42"
+],
+"byte_length": 49,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"An electric current runs across\nthe battlefield.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BC270",
+"category": "battle_messages",
+"address": "0x8BC270",
+"pointer_sources": [
+"0x8BBB56"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Grass covers the battlefield.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BC290",
+"category": "battle_messages",
+"address": "0x8BC290",
+"pointer_sources": [
+"0x8BBB6A"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Mist swirls around the battlefield.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BC2C0",
+"category": "battle_messages",
+"address": "0x8BC2C0",
+"pointer_sources": [
+"0x8BBB2E"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The battlefield is weird.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BC630",
+"category": "battle_messages",
+"address": "0x8BC630",
+"pointer_sources": [
+"0x8BC5AC"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 transformed\ninto the Water type!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_08BC9B0",
+"category": "battle_messages",
+"address": "0x8BC9B0",
+"pointer_sources": [
+"0x8BCBDA"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 can’t use\nitems anymore!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BC9D0",
+"category": "battle_messages",
+"address": "0x8BC9D0",
+"pointer_sources": [
+"0x8BCC0E"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 is covered\nin powder!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BC9F0",
+"category": "battle_messages",
+"address": "0x8BC9F0",
+"pointer_sources": [
+"0x8BCCA2"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 was hurled\ninto the air!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BCA10",
+"category": "battle_messages",
+"address": "0x8BCA10",
+"pointer_sources": [
+"0x8BCA50"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F can’t use\nsound moves after the Throat Chop!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BCA60",
+"category": "battle_messages",
+"address": "0x8BCA60",
+"pointer_sources": [
+"0x8BCAF7"
+],
+"byte_length": 54,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"When the flame touched the powder on\n\\\\0F, it exploded!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BCE60",
+"category": "battle_messages",
+"address": "0x8BCE60",
+"pointer_sources": [
+"0x8BCEDE"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 fell\nstraight down!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BCFB0",
+"category": "battle_messages",
+"address": "0x8BCFB0",
+"pointer_sources": [
+"0x8BD07F"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F started\nheating up its beak!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BCFD0",
+"category": "battle_messages",
+"address": "0x8BCFD0",
+"pointer_sources": [
+"0x8BD09C"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F set a\nShell Trap!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BD3F0",
+"category": "battle_messages",
+"address": "0x8BD3F0",
+"pointer_sources": [
+"0x8BD47C"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s stats changes were\nreversed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BD420",
+"category": "battle_messages",
+"address": "0x8BD420",
+"pointer_sources": [
+"0x8BD4BA"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s moves\nhave been electrified!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BEE00",
+"category": "battle_messages",
+"address": "0x8BEE00",
+"pointer_sources": [
+"0x8BEE6C",
+"0x8BEEED"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 fell in love\nfrom the Destiny Knot!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BF360",
+"category": "battle_messages",
+"address": "0x8BF360",
+"pointer_sources": [
+"0x8BF3AD"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nlocked it on target!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BF460",
+"category": "battle_messages",
+"address": "0x8BF460",
+"pointer_sources": [
+"0x8BF3EE"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nrestored its mental state!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08BF9F0",
+"category": "battle_messages",
+"address": "0x8BF9F0",
+"pointer_sources": [
+"0x8BFBAA"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s illusion\nwore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08C0E2D",
+"category": "battle_messages",
+"address": "0x8C0E2D",
+"pointer_sources": [
+"0x8C0DE0"
+],
+"byte_length": 46,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\1D has run out of balls, so\\.\n\n\\\\1D threw a ROCK.\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_08C8DA0",
+"category": "battle_messages",
+"address": "0x8C8DA0",
+"pointer_sources": [
+"0x8C8D45"
+],
+"byte_length": 46,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 can’t be used\nwhile Gravity is in effect!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08C8DD0",
+"category": "battle_messages",
+"address": "0x8C8DD0",
+"pointer_sources": [
+"0x8C8D65"
+],
+"byte_length": 50,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Sound moves can’t be used\nafter the Throat Chop!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08C8E10",
+"category": "battle_messages",
+"address": "0x8C8E10",
+"pointer_sources": [
+"0x8C8D85"
+],
+"byte_length": 40,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 can’t be used\nafter the Heal Block!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08C8FF0",
+"category": "battle_messages",
+"address": "0x8C8FF0",
+"pointer_sources": [
+"0x8C8FC8"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 got its\nact together!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08C9050",
+"category": "battle_messages",
+"address": "0x8C9050",
+"pointer_sources": [
+"0x8C919E"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10\ntook the kind offer!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08C9070",
+"category": "battle_messages",
+"address": "0x8C9070",
+"pointer_sources": [
+"0x8C91C5"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s move\nwas postponed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08C9A17",
+"category": "battle_messages",
+"address": "0x8C9A17",
+"pointer_sources": [
+"0x8C99D6"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[buffer1] became more friendly.\n\nIts base [buffer2] can’t go lower.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_08C9A4C",
+"category": "battle_messages",
+"address": "0x8C9A4C",
+"pointer_sources": [
+"0x8C99D0"
+],
+"byte_length": 33,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[buffer1] adores you!\n\nIts base [buffer2] fell!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_08CA5E0",
+"category": "battle_messages",
+"address": "0x8CA5E0",
+"pointer_sources": [
+"0x8CA5B7"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nrestored health!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_08CAA11",
+"category": "battle_messages",
+"address": "0x8CAA11",
+"pointer_sources": [
+"0x8CA6A0"
+],
+"byte_length": 57,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[black][player] received the Super Cube\nBattle Component from Mom!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_08CB5A8",
+"category": "battle_messages",
+"address": "0x8CB5A8",
+"pointer_sources": [
+"0x8CAEB0"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[black][player] received the Pokédex\nfrom Prof. Log!\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_08CEAD9",
+"category": "battle_messages",
+"address": "0x8CEAD9",
+"pointer_sources": [
+"0x8CE592",
+"0x8CE6F6"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Choose your skin tone.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_08CEAF0",
+"category": "battle_messages",
+"address": "0x8CEAF0",
+"pointer_sources": [
+"0x8CE5B9",
+"0x8CE659",
+"0x8CE71D",
+"0x8CE7B3"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Choose your hair colour.\"",
+"source_kinds": [
+"preparemsg"
+]
+},
+{
+"id": "v7_08CF53A",
+"category": "battle_messages",
+"address": "0x8CF53A",
+"pointer_sources": [
+"0x8CEEF7"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"A Latiosite and Latiasite\"",
+"source_kinds": [
+"bufferstring"
+]
+},
+{
+"id": "v7_08D1335",
+"category": "battle_messages",
+"address": "0x8D1335",
+"pointer_sources": [
+"0x8D131F"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 can’t be used\nin a Sky Battle!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09059DB",
+"category": "battle_messages",
+"address": "0x9059DB",
+"pointer_sources": [
+"0x9059C5"
+],
+"byte_length": 52,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The Assault Vest prevents the\nuse of Status Moves!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906740",
+"category": "battle_messages",
+"address": "0x906740",
+"pointer_sources": [
+"0x9067D5"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F stole and ate\nits foe’s \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906870",
+"category": "battle_messages",
+"address": "0x906870",
+"pointer_sources": [
+"0x90685B"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F surrounded\nitself with a veil of water!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906B90",
+"category": "battle_messages",
+"address": "0x906B90",
+"pointer_sources": [
+"0x906B62"
+],
+"byte_length": 17,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F flung\nits \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906BF0",
+"category": "battle_messages",
+"address": "0x906BF0",
+"pointer_sources": [
+"0x906614"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F levitated\nwith electromagnetism!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0906C20",
+"category": "battle_messages",
+"address": "0x906C20",
+"pointer_sources": [
+"0x90E7D6"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But \\\\0F can’t use\nthe move!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906C40",
+"category": "battle_messages",
+"address": "0x906C40",
+"pointer_sources": [
+"0x90E7EB"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But \\\\0F can’t use it the\nway it is now!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906D70",
+"category": "battle_messages",
+"address": "0x906D70",
+"pointer_sources": [
+"0x906D53"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The effects of weather\ndisappeared.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906DD0",
+"category": "battle_messages",
+"address": "0x906DD0",
+"pointer_sources": [
+"0x906DB9"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nbreaks the mold!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906E20",
+"category": "battle_messages",
+"address": "0x906E20",
+"pointer_sources": [
+"0x906E03"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F can’t\nget it going!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906E70",
+"category": "battle_messages",
+"address": "0x906E70",
+"pointer_sources": [
+"0x906E53"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is radiating\na blazing aura!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906F10",
+"category": "battle_messages",
+"address": "0x906F10",
+"pointer_sources": [
+"0x906EF3"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is radiating\na dark Aura!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906F60",
+"category": "battle_messages",
+"address": "0x906F60",
+"pointer_sources": [
+"0x906F43"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is radiating\na fairy Aura!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906FB0",
+"category": "battle_messages",
+"address": "0x906FB0",
+"pointer_sources": [
+"0x906F93"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F reversed all\nother Pokémon’s auras!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0906FE0",
+"category": "battle_messages",
+"address": "0x906FE0",
+"pointer_sources": [
+"0x8B67E7",
+"0x9070DD"
+],
+"byte_length": 20,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F formed a school!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907000",
+"category": "battle_messages",
+"address": "0x907000",
+"pointer_sources": [
+"0x906EA3"
+],
+"byte_length": 33,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 is radiating\na bursting aura!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907250",
+"category": "battle_messages",
+"address": "0x907250",
+"pointer_sources": [
+"0x90723F"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nraised its attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907310",
+"category": "battle_messages",
+"address": "0x907310",
+"pointer_sources": [
+"0x9072FF"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nraised its Defense!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09073E0",
+"category": "battle_messages",
+"address": "0x9073E0",
+"pointer_sources": [
+"0x9073CF"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nraised its Defense sharply!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09074D0",
+"category": "battle_messages",
+"address": "0x9074D0",
+"pointer_sources": [
+"0x9074BF",
+"0x9076A0",
+"0x9081A9"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nraised its Speed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09075E0",
+"category": "battle_messages",
+"address": "0x9075E0",
+"pointer_sources": [
+"0x90758F"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nlowered its Defense!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907600",
+"category": "battle_messages",
+"address": "0x907600",
+"pointer_sources": [
+"0x9075C8"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nraised its Speed sharply!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907730",
+"category": "battle_messages",
+"address": "0x907730",
+"pointer_sources": [
+"0x9076F6"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 frisked\n\\\\10 and found its\\l\\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907860",
+"category": "battle_messages",
+"address": "0x907860",
+"pointer_sources": [
+"0x907839"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s ability\nbecame \\\\19!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907AE0",
+"category": "battle_messages",
+"address": "0x907AE0",
+"pointer_sources": [
+"0x907A8D"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\16\nwas stolen by \\\\19!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907BF0",
+"category": "battle_messages",
+"address": "0x907BF0",
+"pointer_sources": [
+"0x907B9C"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nis switching it out!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907C40",
+"category": "battle_messages",
+"address": "0x907C40",
+"pointer_sources": [
+"0x907C23"
+],
+"byte_length": 16,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is drowsing!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907D10",
+"category": "battle_messages",
+"address": "0x907D10",
+"pointer_sources": [
+"0x907D05"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nraised its Special Attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0907DE5",
+"category": "battle_messages",
+"address": "0x907DE5",
+"pointer_sources": [
+"0x907DD6"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\19\nmaxed its Attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09082A0",
+"category": "battle_messages",
+"address": "0x9082A0",
+"pointer_sources": [
+"0x908133"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 was hurt\nby its \\\\19!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09085A0",
+"category": "battle_messages",
+"address": "0x9085A0",
+"pointer_sources": [
+"0x90537F"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s stat changes\nwere removed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09089E0",
+"category": "battle_messages",
+"address": "0x9089E0",
+"pointer_sources": [
+"0x9089A7"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F locked down\nthe battlefield!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0908CDB",
+"category": "battle_messages",
+"address": "0x908CDB",
+"pointer_sources": [
+"0x908C6D"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B\nraised its Sp. Atk!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0908CF9",
+"category": "battle_messages",
+"address": "0x908CF9",
+"pointer_sources": [
+"0x908C7B"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B\nraised its Attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0908E60",
+"category": "battle_messages",
+"address": "0x908E60",
+"pointer_sources": [
+"0x908E9A"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\14\nwas bounced back by Magic Bounce!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0908F30",
+"category": "battle_messages",
+"address": "0x908F30",
+"pointer_sources": [
+"0x909549"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18 cured\n\\\\10’s status!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09092D0",
+"category": "battle_messages",
+"address": "0x9092D0",
+"pointer_sources": [
+"0x909106"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Attack rise!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09092F0",
+"category": "battle_messages",
+"address": "0x9092F0",
+"pointer_sources": [
+"0x909125"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Defense rise!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0909311",
+"category": "battle_messages",
+"address": "0x909311",
+"pointer_sources": [
+"0x909144"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Speed rise!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0909330",
+"category": "battle_messages",
+"address": "0x909330",
+"pointer_sources": [
+"0x909165"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Sp. Atk rise!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0909351",
+"category": "battle_messages",
+"address": "0x909351",
+"pointer_sources": [
+"0x909184"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Sp. Def rise!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0909372",
+"category": "battle_messages",
+"address": "0x909372",
+"pointer_sources": [
+"0x9091A3"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Accuracy rise!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0909394",
+"category": "battle_messages",
+"address": "0x909394",
+"pointer_sources": [
+"0x9091C2"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Evasiveness rise!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09093B9",
+"category": "battle_messages",
+"address": "0x9093B9",
+"pointer_sources": [
+"0x9091E1"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Attack fall!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09093D9",
+"category": "battle_messages",
+"address": "0x9093D9",
+"pointer_sources": [
+"0x909200"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Defense fall!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09093FA",
+"category": "battle_messages",
+"address": "0x9093FA",
+"pointer_sources": [
+"0x90921F"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Speed fall!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0909419",
+"category": "battle_messages",
+"address": "0x909419",
+"pointer_sources": [
+"0x90923E"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Sp. Atk fall!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090943A",
+"category": "battle_messages",
+"address": "0x90943A",
+"pointer_sources": [
+"0x90925D"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Sp. Def fall!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090945B",
+"category": "battle_messages",
+"address": "0x90945B",
+"pointer_sources": [
+"0x90927C"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Accuracy fall!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090947D",
+"category": "battle_messages",
+"address": "0x90947D",
+"pointer_sources": [
+"0x90929B"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1B made\nits Evasiveness fall!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09099AD",
+"category": "battle_messages",
+"address": "0x9099AD",
+"pointer_sources": [
+"0x9099A2"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18 changed\nit into the \\\\00 type!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0909AF0",
+"category": "battle_messages",
+"address": "0x909AF0",
+"pointer_sources": [
+"0x909A1F"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nwhipped up a hailstorm!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0909BF0",
+"category": "battle_messages",
+"address": "0x909BF0",
+"pointer_sources": [
+"0x909BCB"
+],
+"byte_length": 33,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s stockpiled\neffect wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090A718",
+"category": "battle_messages",
+"address": "0x90A718",
+"pointer_sources": [
+"0x90A6D6"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s party is\nprotected by Sweet Veil!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090A7A0",
+"category": "battle_messages",
+"address": "0x90A7A0",
+"pointer_sources": [
+"0x90A6ED"
+],
+"byte_length": 40,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s party is\nprotected by Flower Veil!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090A9C0",
+"category": "battle_messages",
+"address": "0x90A9C0",
+"pointer_sources": [
+"0x90A9A6"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s party is\nprotected by Aroma Veil!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090B780",
+"category": "battle_messages",
+"address": "0x90B780",
+"pointer_sources": [
+"0x8A9AB8",
+"0x90B751",
+"0x90E660"
+],
+"byte_length": 47,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became fully\ncharged due to its Power Herb!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090C710",
+"category": "battle_messages",
+"address": "0x90C710",
+"pointer_sources": [
+"0x90C6DF"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s Speed\nwas lowered by \\\\19!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090C730",
+"category": "battle_messages",
+"address": "0x90C730",
+"pointer_sources": [
+"0x90C66E"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\ndisabled \\\\10’s \\\\14!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090C802",
+"category": "battle_messages",
+"address": "0x90C802",
+"pointer_sources": [
+"0x90C7E9"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s Storm Drain\nraised its Sp. Atk!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090C827",
+"category": "battle_messages",
+"address": "0x90C827",
+"pointer_sources": [
+"0x90CC49"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s Lightningrod\nraised its Sp. Atk!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090CE60",
+"category": "battle_messages",
+"address": "0x90CE60",
+"pointer_sources": [
+"0x90CD88"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\nalerted it to \\\\10’s\\l\\\\14!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090CF46",
+"category": "battle_messages",
+"address": "0x90CF46",
+"pointer_sources": [
+"0x90CEAD"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\1A\ntriggered!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090D120",
+"category": "battle_messages",
+"address": "0x90D120",
+"pointer_sources": [
+"0x90CFCB"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"You sense the presence of many.\\l\\\\10’s \\\\19\nactivated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090D160",
+"category": "battle_messages",
+"address": "0x90D160",
+"pointer_sources": [
+"0x90CFE4"
+],
+"byte_length": 40,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 transformed\ninto its Complete Forme!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090D2C0",
+"category": "battle_messages",
+"address": "0x90D2C0",
+"pointer_sources": [
+"0x8B6787",
+"0x90D1C0"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s \\\\18\ndeactivated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090D3F0",
+"category": "battle_messages",
+"address": "0x90D3F0",
+"pointer_sources": [
+"0x8B6735",
+"0x90D303"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"You sense the presence of many.\\l\\\\0F’s \\\\18\nactivated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090D430",
+"category": "battle_messages",
+"address": "0x90D430",
+"pointer_sources": [
+"0x8B674E",
+"0x90D31C"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F transformed\ninto its Complete Form!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090D780",
+"category": "battle_messages",
+"address": "0x90D780",
+"pointer_sources": [
+"0x8B6A98",
+"0x908678",
+"0x908AB7"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 endured\nthe hit with \\\\19!\"",
+"source_kinds": [
+"aligned",
+"fa"
+]
+},
+{
+"id": "v7_090D930",
+"category": "battle_messages",
+"address": "0x90D930",
+"pointer_sources": [
+"0x90D8FD"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 was cured\nof its status.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090D9B0",
+"category": "battle_messages",
+"address": "0x90D9B0",
+"pointer_sources": [
+"0x90D993"
+],
+"byte_length": 18,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became nimble!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090DB70",
+"category": "battle_messages",
+"address": "0x90DB70",
+"pointer_sources": [
+"0x90D769"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 protects against physical\nand special moves!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090DD30",
+"category": "battle_messages",
+"address": "0x90DD30",
+"pointer_sources": [
+"0x90DD1B"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F concentrated intensely!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090E100",
+"category": "battle_messages",
+"address": "0x90E100",
+"pointer_sources": [
+"0x90E046"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F blew away\nthe deep fog with \\\\14!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090E130",
+"category": "battle_messages",
+"address": "0x90E130",
+"pointer_sources": [
+"0x90E08E"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F blew away\n\\\\10’s screens!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090E400",
+"category": "battle_messages",
+"address": "0x90E400",
+"pointer_sources": [
+"0x90AD2C"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s burn\nwas healed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090E940",
+"category": "battle_messages",
+"address": "0x90E940",
+"pointer_sources": [
+"0x9052AF"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F burned itself out!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090EA30",
+"category": "battle_messages",
+"address": "0x90EA30",
+"pointer_sources": [
+"0x90EA12"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F stole\n\\\\10’s stat boosts!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090EAA0",
+"category": "battle_messages",
+"address": "0x90EAA0",
+"pointer_sources": [
+"0x90EB03"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 received the\n\\\\16 from \\\\0F!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090EF70",
+"category": "battle_messages",
+"address": "0x90EF70",
+"pointer_sources": [
+"0x90EF60"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shifted\nits status problem onto\\l\\\\10!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F3A0",
+"category": "battle_messages",
+"address": "0x90F3A0",
+"pointer_sources": [
+"0x90F45C"
+],
+"byte_length": 41,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 became\ncloaked in mystical moonlight!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F530",
+"category": "battle_messages",
+"address": "0x90F530",
+"pointer_sources": [
+"0x8BCB1E"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F can’t use\n\\\\14 because of gravity!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F560",
+"category": "battle_messages",
+"address": "0x90F560",
+"pointer_sources": [
+"0x90F7CB"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Gravity intensified!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F580",
+"category": "battle_messages",
+"address": "0x90F580",
+"pointer_sources": [
+"0x90F708"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F twisted\nthe dimensions!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F5A0",
+"category": "battle_messages",
+"address": "0x90F5A0",
+"pointer_sources": [
+"0x90F78E"
+],
+"byte_length": 76,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"It created a bizarre area in which\nPokémon’s held items lose their effects!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F5F0",
+"category": "battle_messages",
+"address": "0x90F5F0",
+"pointer_sources": [
+"0x90F74B"
+],
+"byte_length": 75,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"It created a bizarre area in which\nthe Def. and Sp. Def stats are swapped!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F640",
+"category": "battle_messages",
+"address": "0x90F640",
+"pointer_sources": [
+"0x90F822"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 couldn’t\nstay airborne due to gravity!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F670",
+"category": "battle_messages",
+"address": "0x90F670",
+"pointer_sources": [
+"0x90F8A2",
+"0x90F8D7"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"A deluge of ions showers\nthe battlefield!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090F8F0",
+"category": "battle_messages",
+"address": "0x90F8F0",
+"pointer_sources": [
+"0x90FB64"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched\nits Attack and Defense!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_090F920",
+"category": "battle_messages",
+"address": "0x90F920",
+"pointer_sources": [
+"0x90FB68"
+],
+"byte_length": 59,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched all\nchanges to its Attack and Sp. Atk\\lwith \\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_090F960",
+"category": "battle_messages",
+"address": "0x90F960",
+"pointer_sources": [
+"0x90FB6C"
+],
+"byte_length": 60,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched all\nchanges to its Defense and Sp. Def\\lwith \\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_090F9A0",
+"category": "battle_messages",
+"address": "0x90F9A0",
+"pointer_sources": [
+"0x90FB70"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched\nspeed with \\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_090F9C0",
+"category": "battle_messages",
+"address": "0x90F9C0",
+"pointer_sources": [
+"0x90FB74"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched\nstat changes with\\l\\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_090F9F0",
+"category": "battle_messages",
+"address": "0x90F9F0",
+"pointer_sources": [
+"0x90FB7C"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shared its\nguard with the target!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_090FA20",
+"category": "battle_messages",
+"address": "0x90FA20",
+"pointer_sources": [
+"0x90FB78"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shared its\npower with the target!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_090FD30",
+"category": "battle_messages",
+"address": "0x90FD30",
+"pointer_sources": [
+"0x8BB95F"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is waiting\nfor \\\\10’s move!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_090FD50",
+"category": "battle_messages",
+"address": "0x90FD50",
+"pointer_sources": [
+"0x8BB9DC",
+"0x8BBA14",
+"0x8BBA4C"
+],
+"byte_length": 60,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F used\n\\\\14!\n\nThe two moves are joined!\nIt’s a combined move!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09100B0",
+"category": "battle_messages",
+"address": "0x9100B0",
+"pointer_sources": [
+"0x90F4A7"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The Healing Wish came true\nfor \\\\13!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0965B61",
+"category": "battle_messages",
+"address": "0x965B61",
+"pointer_sources": [
+"0x964DDC"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s Adrenaline Orb\nraised its Speed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0965B87",
+"category": "battle_messages",
+"address": "0x965B87",
+"pointer_sources": [
+"0x96506F"
+],
+"byte_length": 13,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 was hurt!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0965BA5",
+"category": "battle_messages",
+"address": "0x965BA5",
+"pointer_sources": [
+"0x965159"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 harvested\none \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0965BBA",
+"category": "battle_messages",
+"address": "0x965BBA",
+"pointer_sources": [
+"0x96517E"
+],
+"byte_length": 17,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 found one\n\\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0965BCB",
+"category": "battle_messages",
+"address": "0x965BCB",
+"pointer_sources": [
+"0x965361",
+"0x969368",
+"0x96D30F"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 fell in love\nfrom the \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966078",
+"category": "battle_messages",
+"address": "0x966078",
+"pointer_sources": [
+"0x965716"
+],
+"byte_length": 11,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\00\n[player]\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966083",
+"category": "battle_messages",
+"address": "0x966083",
+"pointer_sources": [
+"0x965DC4"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F can’t use\n\\\\14 because of gravity!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09660A7",
+"category": "battle_messages",
+"address": "0x9660A7",
+"pointer_sources": [
+"0x965DDE"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F can’t use\n\\\\14 after the Heal Block!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09660CD",
+"category": "battle_messages",
+"address": "0x9660CD",
+"pointer_sources": [
+"0x965DF8"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F can’t use\nsound moves after the Throat Chop!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09660FD",
+"category": "battle_messages",
+"address": "0x9660FD",
+"pointer_sources": [
+"0x965E37"
+],
+"byte_length": 56,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The Water-type attack evaporated\nin the harsh sunlight!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966135",
+"category": "battle_messages",
+"address": "0x966135",
+"pointer_sources": [
+"0x965E23"
+],
+"byte_length": 52,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The Fire-type attack fizzled\nout in the heavy rain!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966169",
+"category": "battle_messages",
+"address": "0x966169",
+"pointer_sources": [
+"0x965E56",
+"0x9FD114"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 surrounds itself\nwith psychic terrain!\"",
+"source_kinds": [
+"aligned",
+"fa"
+]
+},
+{
+"id": "v7_0966193",
+"category": "battle_messages",
+"address": "0x966193",
+"pointer_sources": [
+"0x965E81"
+],
+"byte_length": 54,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"When the flame touched the powder on\n\\\\0F, it exploded!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09661C9",
+"category": "battle_messages",
+"address": "0x9661C9",
+"pointer_sources": [
+"0x965EB3"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F transformed\ninto its blade form!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09661ED",
+"category": "battle_messages",
+"address": "0x9661ED",
+"pointer_sources": [
+"0x965ED9"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F transformed\ninto its shield form!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966212",
+"category": "battle_messages",
+"address": "0x966212",
+"pointer_sources": [
+"0x965EF3",
+"0x965F20"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F surrounded\nitself with its Z-Power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966239",
+"category": "battle_messages",
+"address": "0x966239",
+"pointer_sources": [
+"0x965F0B",
+"0x965F33"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F unleashes\nits full-force Z-move!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096625D",
+"category": "battle_messages",
+"address": "0x96625D",
+"pointer_sources": [
+"0x965F68"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s illusion\nwore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966585",
+"category": "battle_messages",
+"address": "0x966585",
+"pointer_sources": [
+"0x9662B8"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F floats in\nthe air with its Air Balloon!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09665CA",
+"category": "battle_messages",
+"address": "0x9665CA",
+"pointer_sources": [
+"0x9663E3"
+],
+"byte_length": 55,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s\nPrimal Reversion!\n\nIt reverted to its primal form!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966601",
+"category": "battle_messages",
+"address": "0x966601",
+"pointer_sources": [
+"0x9663F3"
+],
+"byte_length": 49,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"An electric current runs across\nthe battlefield.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966632",
+"category": "battle_messages",
+"address": "0x966632",
+"pointer_sources": [
+"0x966407"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Grass covers the battlefield.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966650",
+"category": "battle_messages",
+"address": "0x966650",
+"pointer_sources": [
+"0x96641B"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Mist swirls around the battlefield.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966674",
+"category": "battle_messages",
+"address": "0x966674",
+"pointer_sources": [
+"0x96642F"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The battlefield is weird.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096668E",
+"category": "battle_messages",
+"address": "0x96668E",
+"pointer_sources": [
+"0x9664F7"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 started\nheating up its beak!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09666AE",
+"category": "battle_messages",
+"address": "0x9666AE",
+"pointer_sources": [
+"0x966514"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 set a\nShell Trap!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966B45",
+"category": "battle_messages",
+"address": "0x966B45",
+"pointer_sources": [
+"0x96671E"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F was hurt by\n\\\\10’s Spiky Shield!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966B67",
+"category": "battle_messages",
+"address": "0x966B67",
+"pointer_sources": [
+"0x9668B5"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\11 was\npoisoned by the Toxic Spikes!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966B8C",
+"category": "battle_messages",
+"address": "0x966B8C",
+"pointer_sources": [
+"0x966922"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\11 is badly\npoisoned by the Toxic Spikes!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966BD7",
+"category": "battle_messages",
+"address": "0x966BD7",
+"pointer_sources": [
+"0x966739",
+"0x9668CF"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\11 was\npoisoned by the Baneful Bunker!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966BFE",
+"category": "battle_messages",
+"address": "0x966BFE",
+"pointer_sources": [
+"0x96697B"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\11 was burned\nby \\\\0F’s beak!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966C61",
+"category": "battle_messages",
+"address": "0x966C61",
+"pointer_sources": [
+"0x9667F2"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F cut its own\nHP to power up its attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966C8B",
+"category": "battle_messages",
+"address": "0x966C8B",
+"pointer_sources": [
+"0x966824"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F lost some\nof its HP!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0966CA3",
+"category": "battle_messages",
+"address": "0x966CA3",
+"pointer_sources": [
+"0x966A4A"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F stole and ate\nits foe’s \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967524",
+"category": "battle_messages",
+"address": "0x967524",
+"pointer_sources": [
+"0x966F8B"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The fog disappeared.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967539",
+"category": "battle_messages",
+"address": "0x967539",
+"pointer_sources": [
+"0x966F9B"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The fog is deep...\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096754C",
+"category": "battle_messages",
+"address": "0x96754C",
+"pointer_sources": [
+"0x966FE5"
+],
+"byte_length": 41,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The grassy terrain restored\n\\\\0F’s health!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967575",
+"category": "battle_messages",
+"address": "0x967575",
+"pointer_sources": [
+"0x967009"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The Aqua Ring restored\n\\\\0F’s health!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967599",
+"category": "battle_messages",
+"address": "0x967599",
+"pointer_sources": [
+"0x967105"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s\nelectromagnetism wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09675B9",
+"category": "battle_messages",
+"address": "0x9675B9",
+"pointer_sources": [
+"0x96711B"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F was freed\nfrom the telekinesis!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09675DC",
+"category": "battle_messages",
+"address": "0x9675DC",
+"pointer_sources": [
+"0x96712B"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s\nHeal Block wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09675F6",
+"category": "battle_messages",
+"address": "0x9675F6",
+"pointer_sources": [
+"0x96713B"
+],
+"byte_length": 20,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s\nEmbargo ended!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967635",
+"category": "battle_messages",
+"address": "0x967635",
+"pointer_sources": [
+"0x96719F"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Water Sport’s effects wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967655",
+"category": "battle_messages",
+"address": "0x967655",
+"pointer_sources": [
+"0x9671AD"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Mud Sport’s effects wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967750",
+"category": "battle_messages",
+"address": "0x967750",
+"pointer_sources": [
+"0x96724B"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"You sense the presence of many!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967770",
+"category": "battle_messages",
+"address": "0x967770",
+"pointer_sources": [
+"0x967271"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 transformed\ninto its Complete Form!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0967797",
+"category": "battle_messages",
+"address": "0x967797",
+"pointer_sources": [
+"0x9672E1"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1A\nactivated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09677AA",
+"category": "battle_messages",
+"address": "0x9677AA",
+"pointer_sources": [
+"0x967308"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\1A\ndeactivated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_09677BF",
+"category": "battle_messages",
+"address": "0x9677BF",
+"pointer_sources": [
+"0x964FA7",
+"0x967335",
+"0x967362",
+"0x96B6E2",
+"0x96CECA"
+],
+"byte_length": 16,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 transformed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BDEC",
+"category": "battle_messages",
+"address": "0x96BDEC",
+"pointer_sources": [
+"0x96793F"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 is\nprotected by the terrain!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BE0C",
+"category": "battle_messages",
+"address": "0x96BE0C",
+"pointer_sources": [
+"0x96806E"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s type became\nthe same as \\\\10’s!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BE2F",
+"category": "battle_messages",
+"address": "0x96BE2F",
+"pointer_sources": [
+"0x96818B",
+"0x968271",
+"0x9682C9",
+"0x968333"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 was cured\nof its \\\\00 problem!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BE4F",
+"category": "battle_messages",
+"address": "0x96BE4F",
+"pointer_sources": [
+"0x968608"
+],
+"byte_length": 18,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became nimble!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BE61",
+"category": "battle_messages",
+"address": "0x96BE61",
+"pointer_sources": [
+"0x968973"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became\ncloaked in a freezing light!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BE88",
+"category": "battle_messages",
+"address": "0x96BE88",
+"pointer_sources": [
+"0x968983"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became\ncloaked in freezing air!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BEAB",
+"category": "battle_messages",
+"address": "0x96BEAB",
+"pointer_sources": [
+"0x968993"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F vanished\ninstantly!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BEC2",
+"category": "battle_messages",
+"address": "0x96BEC2",
+"pointer_sources": [
+"0x968D15"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F concentrated\nintensely!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BEDD",
+"category": "battle_messages",
+"address": "0x96BEDD",
+"pointer_sources": [
+"0x9693E5"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F burned\nitself out!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BEF3",
+"category": "battle_messages",
+"address": "0x96BEF3",
+"pointer_sources": [
+"0x969506"
+],
+"byte_length": 20,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F went back\nto \\\\39!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BF07",
+"category": "battle_messages",
+"address": "0x96BF07",
+"pointer_sources": [
+"0x96973E"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F blew away\nthe deep fog with \\\\14!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BF2A",
+"category": "battle_messages",
+"address": "0x96BF2A",
+"pointer_sources": [
+"0x969992"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F stole\n\\\\10’s stat boosts!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BF45",
+"category": "battle_messages",
+"address": "0x96BF45",
+"pointer_sources": [
+"0x969DE9"
+],
+"byte_length": 33,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s stockpiled\neffect wore off!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BF66",
+"category": "battle_messages",
+"address": "0x96BF66",
+"pointer_sources": [
+"0x96A293"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 received the\n\\\\16 from \\\\0F!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BF82",
+"category": "battle_messages",
+"address": "0x96BF82",
+"pointer_sources": [
+"0x96A373"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F surrounded\nitself with a veil of water!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BFC8",
+"category": "battle_messages",
+"address": "0x96BFC8",
+"pointer_sources": [
+"0x965FEE"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But \\\\0F can’t use it the\nway it is now!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096BFEF",
+"category": "battle_messages",
+"address": "0x96BFEF",
+"pointer_sources": [
+"0x96A823"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shifted\nits status problem onto\\l\\\\10!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C016",
+"category": "battle_messages",
+"address": "0x96C016",
+"pointer_sources": [
+"0x96B312"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is absorbing\npower!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C02D",
+"category": "battle_messages",
+"address": "0x96C02D",
+"pointer_sources": [
+"0x9689DD",
+"0x96B3CB"
+],
+"byte_length": 47,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became fully\ncharged due to its Power Herb!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C05C",
+"category": "battle_messages",
+"address": "0x96C05C",
+"pointer_sources": [
+"0x9B64B4"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched\nits Attack and Defense!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_096C080",
+"category": "battle_messages",
+"address": "0x96C080",
+"pointer_sources": [
+"0x9B64BC"
+],
+"byte_length": 59,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched all\nchanges to its Attack and Sp. Atk\\lwith \\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_096C0BB",
+"category": "battle_messages",
+"address": "0x96C0BB",
+"pointer_sources": [
+"0x9B6494"
+],
+"byte_length": 60,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched all\nchanges to its Defense and Sp. Def\\lwith \\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_096C0F7",
+"category": "battle_messages",
+"address": "0x96C0F7",
+"pointer_sources": [
+"0x9B64C0"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched\nspeed with \\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_096C112",
+"category": "battle_messages",
+"address": "0x96C112",
+"pointer_sources": [
+"0x9B64C4"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F switched\nstat changes with\\l\\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_096C134",
+"category": "battle_messages",
+"address": "0x96C134",
+"pointer_sources": [
+"0x9B64C8"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shared its\npower with the target!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_096C159",
+"category": "battle_messages",
+"address": "0x96C159",
+"pointer_sources": [
+"0x9B64CC"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shared its\nguard with the target!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_096C17E",
+"category": "battle_messages",
+"address": "0x96C17E",
+"pointer_sources": [
+"0x96B745"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is waiting\nfor \\\\13’s move!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C19B",
+"category": "battle_messages",
+"address": "0x96C19B",
+"pointer_sources": [
+"0x96B759"
+],
+"byte_length": 60,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F used\n\\\\14!\n\nThe two moves are joined!\nIt’s a combined move!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C244",
+"category": "battle_messages",
+"address": "0x96C244",
+"pointer_sources": [
+"0x96B7F1"
+],
+"byte_length": 17,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F flung\nits \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C255",
+"category": "battle_messages",
+"address": "0x96C255",
+"pointer_sources": [
+"0x96B85E"
+],
+"byte_length": 59,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The protection effects were lifted\nfrom the target’s side!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C290",
+"category": "battle_messages",
+"address": "0x96C290",
+"pointer_sources": [
+"0x96B8CD"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 was\nprevented from healing!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C2AF",
+"category": "battle_messages",
+"address": "0x96C2AF",
+"pointer_sources": [
+"0x96B905"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 can’t use\nitems anymore!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C2CB",
+"category": "battle_messages",
+"address": "0x96C2CB",
+"pointer_sources": [
+"0x96B93F"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 is covered\nin powder!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C331",
+"category": "battle_messages",
+"address": "0x96C331",
+"pointer_sources": [
+"0x96BABC"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s moves\nhave been electrified!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C353",
+"category": "battle_messages",
+"address": "0x96C353",
+"pointer_sources": [
+"0x96BA97"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s stats changes\nwere reversed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C375",
+"category": "battle_messages",
+"address": "0x96C375",
+"pointer_sources": [
+"0x96BB4E"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10\ntook the kind offer!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C38D",
+"category": "battle_messages",
+"address": "0x96C38D",
+"pointer_sources": [
+"0x96BB72"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s move\nwas postponed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C3A6",
+"category": "battle_messages",
+"address": "0x96C3A6",
+"pointer_sources": [
+"0x96BBD9"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F levitated\nwith electromagnetism!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C3CA",
+"category": "battle_messages",
+"address": "0x96C3CA",
+"pointer_sources": [
+"0x96BC37"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The bursting flame hit\n\\\\13!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C98C",
+"category": "battle_messages",
+"address": "0x96C98C",
+"pointer_sources": [
+"0x96C5C5"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s HP\nwas restored!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C9A2",
+"category": "battle_messages",
+"address": "0x96C9A2",
+"pointer_sources": [
+"0x96C675"
+],
+"byte_length": 16,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\npopped!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C9B2",
+"category": "battle_messages",
+"address": "0x96C9B2",
+"pointer_sources": [
+"0x96C693"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s\n\\\\16 activated!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C9C5",
+"category": "battle_messages",
+"address": "0x96C9C5",
+"pointer_sources": [
+"0x96C6F7",
+"0x96C727"
+],
+"byte_length": 17,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s \\\\16\nhurt \\\\0F!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C9D6",
+"category": "battle_messages",
+"address": "0x96C9D6",
+"pointer_sources": [
+"0x96C757"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 was hurt\nby its \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096C9ED",
+"category": "battle_messages",
+"address": "0x96C9ED",
+"pointer_sources": [
+"0x96C77A"
+],
+"byte_length": 55,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 boosted\nthe accuracy of its next move\\lusing its \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CA24",
+"category": "battle_messages",
+"address": "0x96CA24",
+"pointer_sources": [
+"0x96C7A1"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The \\\\16 attached itself to\n\\\\0F!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CA62",
+"category": "battle_messages",
+"address": "0x96CA62",
+"pointer_sources": [
+"0x96C83B"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 held up its\n\\\\16 against \\\\0F!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CA80",
+"category": "battle_messages",
+"address": "0x96CA80",
+"pointer_sources": [
+"0x96C881"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But \\\\0F anchored\nitself with its roots!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CAA7",
+"category": "battle_messages",
+"address": "0x96CAA7",
+"pointer_sources": [
+"0x96C895"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But \\\\0F anchors\nitself with \\\\18!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CB07",
+"category": "battle_messages",
+"address": "0x96CB07",
+"pointer_sources": [
+"0x96C8E9"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\16\nreduced \\\\14’s power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CC1C",
+"category": "battle_messages",
+"address": "0x96CC1C",
+"pointer_sources": [
+"0x96CB29"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\00’s \\\\16 is reacting\nto \\\\39’s [player]!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CC3C",
+"category": "battle_messages",
+"address": "0x96CC3C",
+"pointer_sources": [
+"0x96CB42"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 Mega Evolved\ninto Mega \\\\34!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CC5A",
+"category": "battle_messages",
+"address": "0x96CC5A",
+"pointer_sources": [
+"0x96CB57"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\39’s fervent wish\nhas reached \\\\00!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CC7C",
+"category": "battle_messages",
+"address": "0x96CC7C",
+"pointer_sources": [
+"0x96CB6B"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Bright light is about to burst out of\n\\\\13!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CCA6",
+"category": "battle_messages",
+"address": "0x96CCA6",
+"pointer_sources": [
+"0x96CB84"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 regained its\ntrue power through Ultra Burst!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CD5C",
+"category": "battle_messages",
+"address": "0x96CD5C",
+"pointer_sources": [
+"0x96CCDD"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 must be selected\nafter the Encore!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CD83",
+"category": "battle_messages",
+"address": "0x96CD83",
+"pointer_sources": [
+"0x96CCF7"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The \\\\16 prevents the\nuse of Status Moves!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CDAD",
+"category": "battle_messages",
+"address": "0x96CDAD",
+"pointer_sources": [
+"0x96CD04"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 can’t be used\nin a Sky Battle!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CDD0",
+"category": "battle_messages",
+"address": "0x96CDD0",
+"pointer_sources": [
+"0x96CD2B"
+],
+"byte_length": 46,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 can’t be used\nwhile Gravity is in effect!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CDFE",
+"category": "battle_messages",
+"address": "0x96CDFE",
+"pointer_sources": [
+"0x96CD38"
+],
+"byte_length": 49,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 can’t use Sound moves\nafter the Throat Chop!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096CE2F",
+"category": "battle_messages",
+"address": "0x96CE2F",
+"pointer_sources": [
+"0x96CD45"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 can’t use \\\\14\nafter the Heal Block!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096D558",
+"category": "battle_messages",
+"address": "0x96D558",
+"pointer_sources": [
+"0x96CE5D"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 was slapped\nawake!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096D56E",
+"category": "battle_messages",
+"address": "0x96D56E",
+"pointer_sources": [
+"0x96CE6F"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s burn\nwas healed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096D584",
+"category": "battle_messages",
+"address": "0x96D584",
+"pointer_sources": [
+"0x96CE89"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s item\ncan’t be removed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096DB53",
+"category": "battle_messages",
+"address": "0x96DB53",
+"pointer_sources": [
+"0x96D5F6"
+],
+"byte_length": 41,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became\ncloaked in mystical moonlight!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096DCC0",
+"category": "battle_messages",
+"address": "0x96DCC0",
+"pointer_sources": [
+"0x96DC0D"
+],
+"byte_length": 61,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 returned its\ndecreased stats to normal using\\lits Z-Power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096DCFD",
+"category": "battle_messages",
+"address": "0x96DCFD",
+"pointer_sources": [
+"0x96DC71"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 boosted its\n\\\\00 [player]using its Z-Power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096DD24",
+"category": "battle_messages",
+"address": "0x96DD24",
+"pointer_sources": [
+"0x96DC1D"
+],
+"byte_length": 40,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 boosted its\nstats using its Z-Power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096DD4C",
+"category": "battle_messages",
+"address": "0x96DD4C",
+"pointer_sources": [
+"0x96DC2D"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 boosted its\ncritical-hit ratio using its Z-Power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096DD81",
+"category": "battle_messages",
+"address": "0x96DD81",
+"pointer_sources": [
+"0x96DC51"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 restored its\nHP using its Z-Power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096DDA7",
+"category": "battle_messages",
+"address": "0x96DDA7",
+"pointer_sources": [
+"0x96DC81"
+],
+"byte_length": 56,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 will restore its\nreplacement’s HP using its Z-Power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_096DDDF",
+"category": "battle_messages",
+"address": "0x96DDDF",
+"pointer_sources": [
+"0x96DCA1"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s HP was\nrestored by the Z-Power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A377BD",
+"category": "battle_messages",
+"address": "0xA377BD",
+"pointer_sources": [
+"0x9A5F48"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\37 team is too\nnervous to eat Berries!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A3781F",
+"category": "battle_messages",
+"address": "0xA3781F",
+"pointer_sources": [
+"0x9A5F44"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 reversed all\nother Pokémon’s auras!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A379A7",
+"category": "battle_messages",
+"address": "0xA379A7",
+"pointer_sources": [
+"0x9691EB"
+],
+"byte_length": 44,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But there is no relief from the\nheavy rain!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A379D3",
+"category": "battle_messages",
+"address": "0xA379D3",
+"pointer_sources": [
+"0x9691FE"
+],
+"byte_length": 52,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But the mysterious strong winds\nblow on regardless!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37A07",
+"category": "battle_messages",
+"address": "0xA37A07",
+"pointer_sources": [
+"0x969211"
+],
+"byte_length": 45,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But the vicious sandstorm refuses\nto let up!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37A34",
+"category": "battle_messages",
+"address": "0xA37A34",
+"pointer_sources": [
+"0x9A75EC"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 got its\nact together!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A37AB5",
+"category": "battle_messages",
+"address": "0xA37AB5",
+"pointer_sources": [
+"0x965CD6"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 bounced the\n\\\\14 back!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37ACD",
+"category": "battle_messages",
+"address": "0xA37ACD",
+"pointer_sources": [
+"0x967293"
+],
+"byte_length": 20,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 formed\na school!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37AE1",
+"category": "battle_messages",
+"address": "0xA37AE1",
+"pointer_sources": [
+"0x9672BA"
+],
+"byte_length": 22,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 stopped\nschooling!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37AF7",
+"category": "battle_messages",
+"address": "0xA37AF7",
+"pointer_sources": [
+"0x96CCEA"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\17 allows only\n\\\\14 to be used!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37B16",
+"category": "battle_messages",
+"address": "0xA37B16",
+"pointer_sources": [
+"0x965635"
+],
+"byte_length": 33,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The Ice Face took damage for\n\\\\10!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37B37",
+"category": "battle_messages",
+"address": "0xA37B37",
+"pointer_sources": [
+"0x965651"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s Ice Face\nshattered!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37BC3",
+"category": "battle_messages",
+"address": "0xA37BC3",
+"pointer_sources": [
+"0x9A5F74"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s stat changes\nwere removed!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A37BF0",
+"category": "battle_messages",
+"address": "0xA37BF0",
+"pointer_sources": [
+"0x9656AC"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 shared its\n\\\\16 with \\\\11!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37C0A",
+"category": "battle_messages",
+"address": "0xA37C0A",
+"pointer_sources": [
+"0x965A82"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But \\\\10 evaporated\nthe attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A37C28",
+"category": "battle_messages",
+"address": "0xA37C28",
+"pointer_sources": [
+"0x964D06"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 evaporated\nthe rain!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A43F03",
+"category": "battle_messages",
+"address": "0xA43F03",
+"pointer_sources": [
+"0x96D666"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Pointed stones dug into\n\\\\10!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A43F1F",
+"category": "battle_messages",
+"address": "0xA43F1F",
+"pointer_sources": [
+"0x96D691"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The sharp steel bit into\n\\\\10!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A43F3C",
+"category": "battle_messages",
+"address": "0xA43F3C",
+"pointer_sources": [
+"0x96D6FB"
+],
+"byte_length": 52,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The Toxic Spikes disappeared from\naround \\\\10’s feet!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A444D1",
+"category": "battle_messages",
+"address": "0xA444D1",
+"pointer_sources": [
+"0xA6B7B0"
+],
+"byte_length": 13,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"in the rain!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A444DE",
+"category": "battle_messages",
+"address": "0xA444DE",
+"pointer_sources": [
+"0xA6B7B4"
+],
+"byte_length": 12,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"in the sun!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A44566",
+"category": "battle_messages",
+"address": "0xA44566",
+"pointer_sources": [
+"0xA6B7C4"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"in a Trick Room!\n\nSlower Pokémon get to move first!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A44599",
+"category": "battle_messages",
+"address": "0xA44599",
+"pointer_sources": [
+"0xA6B7C8"
+],
+"byte_length": 49,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"in a Magic Room!\n\nMost held items have no effect!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A445CA",
+"category": "battle_messages",
+"address": "0xA445CA",
+"pointer_sources": [
+"0xA6B7CC"
+],
+"byte_length": 57,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"in a Wonder Room!\n\nDefense and Sp. Def stats are\nswapped!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A447FF",
+"category": "battle_messages",
+"address": "0xA447FF",
+"pointer_sources": [
+"0xA6B7E4"
+],
+"byte_length": 54,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"in an Inverse Battle!\n\nAll type matchups are reversed!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A45EF3",
+"category": "battle_messages",
+"address": "0xA45EF3",
+"pointer_sources": [
+"0xA6F774"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"I have hay fever\\.\n\nhahahaaACHOOO!!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4A9F0",
+"category": "battle_messages",
+"address": "0xA4A9F0",
+"pointer_sources": [
+"0x9B7560"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F twisted\nthe dimensions!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4AAD5",
+"category": "battle_messages",
+"address": "0xA4AAD5",
+"pointer_sources": [
+"0x9B7670"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 couldn’t\nstay airborne due to Gravity!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4ABA9",
+"category": "battle_messages",
+"address": "0xA4ABA9",
+"pointer_sources": [
+"0x9B7904"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s type\nchanged to \\\\00!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4ABC2",
+"category": "battle_messages",
+"address": "0xA4ABC2",
+"pointer_sources": [
+"0x3FE030"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s type\nchanged to \\\\00!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4ABDB",
+"category": "battle_messages",
+"address": "0xA4ABDB",
+"pointer_sources": [
+"0x9655D4",
+"0x965AB6"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s type\nchanged to \\\\00!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4ABF4",
+"category": "battle_messages",
+"address": "0xA4ABF4",
+"pointer_sources": [
+"0x9B790C"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\00 type was added to\n\\\\10!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4AC0D",
+"category": "battle_messages",
+"address": "0xA4AC0D",
+"pointer_sources": [
+"0x965AD0"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 returned\nto its original type!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4AC2F",
+"category": "battle_messages",
+"address": "0xA4AC2F",
+"pointer_sources": [
+"0x9B7B6C"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F locked down\nthe battlefield!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4AD14",
+"category": "battle_messages",
+"address": "0xA4AD14",
+"pointer_sources": [
+"0x96CEFB",
+"0x9B83DC"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s Ability\nwas suppressed!\"",
+"source_kinds": [
+"aligned",
+"fa"
+]
+},
+{
+"id": "v7_0A4AD31",
+"category": "battle_messages",
+"address": "0xA4AD31",
+"pointer_sources": [
+"0xA0A4F0"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s stat changes\nwere removed!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4AD67",
+"category": "battle_messages",
+"address": "0xA4AD67",
+"pointer_sources": [
+"0xA0A0CC"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 has been\nafflicted with an Infestation!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4AD92",
+"category": "battle_messages",
+"address": "0xA4AD92",
+"pointer_sources": [
+"0x96BD4A"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F took\n\\\\10 into the sky!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4ADEC",
+"category": "battle_messages",
+"address": "0xA4ADEC",
+"pointer_sources": [
+"0x9ED51C"
+],
+"byte_length": 56,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F intends to flip\nup a mat and block incoming attacks!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4AF18",
+"category": "battle_messages",
+"address": "0xA4AF18",
+"pointer_sources": [
+"0x3FE068"
+],
+"byte_length": 28,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F became\ncloaked in light!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4AF59",
+"category": "battle_messages",
+"address": "0xA4AF59",
+"pointer_sources": [
+"0x3FE424"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 used the\n\\\\16 to get pumped!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4AF77",
+"category": "battle_messages",
+"address": "0xA4AF77",
+"pointer_sources": [
+"0x96647E"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 can act\nfaster, thanks to its \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4AF9C",
+"category": "battle_messages",
+"address": "0xA4AF9C",
+"pointer_sources": [
+"0x9664C1"
+],
+"byte_length": 19,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 can act\nfaster!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4AFAF",
+"category": "battle_messages",
+"address": "0xA4AFAF",
+"pointer_sources": [
+"0x9689A3"
+],
+"byte_length": 36,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is\noverflowing with space power!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4AFD3",
+"category": "battle_messages",
+"address": "0xA4AFD3",
+"pointer_sources": [
+"0x96BCE9"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 is about to\nbe attacked by its \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B018",
+"category": "battle_messages",
+"address": "0xA4B018",
+"pointer_sources": [
+"0x96A5CB"
+],
+"byte_length": 21,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F corroded\n\\\\10’s \\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B02D",
+"category": "battle_messages",
+"address": "0xA4B02D",
+"pointer_sources": [
+"0x9B7588"
+],
+"byte_length": 64,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F swapped\nthe battle effects affecting each\\lside of the field!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B06D",
+"category": "battle_messages",
+"address": "0xA4B06D",
+"pointer_sources": [
+"0x9B64AC"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F swapped its\noffenses and defenses!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B093",
+"category": "battle_messages",
+"address": "0xA4B093",
+"pointer_sources": [
+"0x9679EA"
+],
+"byte_length": 16,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 stays awake!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B0A3",
+"category": "battle_messages",
+"address": "0xA4B0A3",
+"pointer_sources": [
+"0x9FDFF0",
+"0x9FE1FC",
+"0x9FE454",
+"0x9FE640",
+"0x9FE8A8",
+"0x9FEB48"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10’s party is\nprotected by Safeguard!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B0F3",
+"category": "battle_messages",
+"address": "0xA4B0F3",
+"pointer_sources": [
+"0x9DF694",
+"0x9FDFFC",
+"0x9FE204"
+],
+"byte_length": 46,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 surrounds\nitself with electrified terrain!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B121",
+"category": "battle_messages",
+"address": "0xA4B121",
+"pointer_sources": [
+"0x9FDFEC",
+"0x9FE1F8",
+"0x9FE450",
+"0x9FE63C",
+"0x9FE8A4"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 already has\na status condition!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B15A",
+"category": "battle_messages",
+"address": "0xA4B15A",
+"pointer_sources": [
+"0x96795B"
+],
+"byte_length": 47,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 surrounded\nitself with a veil of sweetness!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B189",
+"category": "battle_messages",
+"address": "0xA4B189",
+"pointer_sources": [
+"0x96797C"
+],
+"byte_length": 44,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 surrounded\nitself with a veil of petals!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B1B5",
+"category": "battle_messages",
+"address": "0xA4B1B5",
+"pointer_sources": [
+"0x96799D"
+],
+"byte_length": 34,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 is protected\nby a pastel veil!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B1D7",
+"category": "battle_messages",
+"address": "0xA4B1D7",
+"pointer_sources": [
+"0x968BAF"
+],
+"byte_length": 37,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 is protected\nby an aromatic veil!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B4DC",
+"category": "battle_messages",
+"address": "0xA4B4DC",
+"pointer_sources": [
+"0x967183"
+],
+"byte_length": 38,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The swamp around \\\\36 team\ndisappeared!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B502",
+"category": "battle_messages",
+"address": "0xA4B502",
+"pointer_sources": [
+"0x96C665"
+],
+"byte_length": 29,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The \\\\16 restored\n\\\\13’s status!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B51F",
+"category": "battle_messages",
+"address": "0xA4B51F",
+"pointer_sources": [
+"0x96992F"
+],
+"byte_length": 40,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F cut its own HP\nand minimized Attack!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B568",
+"category": "battle_messages",
+"address": "0xA4B568",
+"pointer_sources": [
+"0x96AFEC"
+],
+"byte_length": 44,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F can no longer\nescape because it used \\\\14!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B594",
+"category": "battle_messages",
+"address": "0xA4B594",
+"pointer_sources": [
+"0x967ECE"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 became\nweaker to fire!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B5AE",
+"category": "battle_messages",
+"address": "0xA4B5AE",
+"pointer_sources": [
+"0xA0A0DC"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 got trapped\nby a snap trap!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B666",
+"category": "battle_messages",
+"address": "0xA4B666",
+"pointer_sources": [
+"0x96519F"
+],
+"byte_length": 17,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 found one\n\\\\16!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B677",
+"category": "battle_messages",
+"address": "0xA4B677",
+"pointer_sources": [
+"0x9659CF"
+],
+"byte_length": 40,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Both Pokémon will faint in\nthree turns!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B69F",
+"category": "battle_messages",
+"address": "0xA4B69F",
+"pointer_sources": [
+"0x9DB288"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\37 team got trapped\nwith vines!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B718",
+"category": "battle_messages",
+"address": "0xA4B718",
+"pointer_sources": [
+"0x9DB294"
+],
+"byte_length": 32,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\37 team was surrounded\nby fire!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B79E",
+"category": "battle_messages",
+"address": "0xA4B79E",
+"pointer_sources": [
+"0x9DB298"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\37 team got caught in\nthe vortex of water!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B821",
+"category": "battle_messages",
+"address": "0xA4B821",
+"pointer_sources": [
+"0x9DB61C"
+],
+"byte_length": 33,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\37 team was surrounded\nby rocks!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B8CD",
+"category": "battle_messages",
+"address": "0xA4B8CD",
+"pointer_sources": [
+"0x9666CC"
+],
+"byte_length": 47,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 couldn’t\nfully protect itself and got hurt!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B8FC",
+"category": "battle_messages",
+"address": "0xA4B8FC",
+"pointer_sources": [
+"0x966ECD"
+],
+"byte_length": 46,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The mysterious strong winds\ncontinue to blow.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B92A",
+"category": "battle_messages",
+"address": "0xA4B92A",
+"pointer_sources": [
+"0x96CD52"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 can’t be selected on the\nInsane difficulty!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4B981",
+"category": "battle_messages",
+"address": "0xA4B981",
+"pointer_sources": [
+"0x9F1DD4"
+],
+"byte_length": 40,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\00 found and placed one\n\\\\16 in the Cube!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4B9BE",
+"category": "battle_messages",
+"address": "0xA4B9BE",
+"pointer_sources": [
+"0x966E99"
+],
+"byte_length": 72,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\00 appears to be holding\nthe \\\\16.\n\nWould you like to take the\n\\\\16 from it?\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BA67",
+"category": "battle_messages",
+"address": "0xA4BA67",
+"pointer_sources": [
+"0x96750B"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\10 summoned\nanother \\\\00!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BA7F",
+"category": "battle_messages",
+"address": "0xA4BA7F",
+"pointer_sources": [
+"0x966394"
+],
+"byte_length": 17,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F’s stats rose!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BA90",
+"category": "battle_messages",
+"address": "0xA4BA90",
+"pointer_sources": [
+"0x96DABB"
+],
+"byte_length": 66,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\1C \\\\1D is\nabout to send out a new Pokémon.\n\nWill \\\\23 change\nPokémon?\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BAD2",
+"category": "battle_messages",
+"address": "0xA4BAD2",
+"pointer_sources": [
+"0x9678BF"
+],
+"byte_length": 25,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\11 has devolved\ninto \\\\00!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BAEB",
+"category": "battle_messages",
+"address": "0xA4BAEB",
+"pointer_sources": [
+"0x965D5E"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F devolved and\nforgot the move it was going to use!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BB20",
+"category": "battle_messages",
+"address": "0xA4BB20",
+"pointer_sources": [
+"0x9678D8"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\11’s stats\nand primary status were reset!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BB4A",
+"category": "battle_messages",
+"address": "0xA4BB4A",
+"pointer_sources": [
+"0x9BBF10",
+"0xA0E744"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 appears as the\n\\\\00-type!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4BB65",
+"category": "battle_messages",
+"address": "0xA4BB65",
+"pointer_sources": [
+"0x9BBF14",
+"0xA0E748"
+],
+"byte_length": 35,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 appears as the\n\\\\00- and [player]-type!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4BBA8",
+"category": "battle_messages",
+"address": "0xA4BBA8",
+"pointer_sources": [
+"0x9670DF"
+],
+"byte_length": 42,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F is\ntormented by the negative emotions!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BE45",
+"category": "battle_messages",
+"address": "0xA4BE45",
+"pointer_sources": [
+"0x966462"
+],
+"byte_length": 41,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The Pixies in the air increased\n\\\\13’s \\\\00!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BEF1",
+"category": "battle_messages",
+"address": "0xA4BEF1",
+"pointer_sources": [
+"0x965FB2"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"But the attack’s type can’t be used\nin this fight!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BF24",
+"category": "battle_messages",
+"address": "0xA4BF24",
+"pointer_sources": [
+"0x96CD11"
+],
+"byte_length": 66,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\00-type moves can’t be used\nin this round of the Ring Challenge!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BF66",
+"category": "battle_messages",
+"address": "0xA4BF66",
+"pointer_sources": [
+"0x96CD1E"
+],
+"byte_length": 41,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\14 can’t be used in\nthe Ring Challenge!\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BFB3",
+"category": "battle_messages",
+"address": "0xA4BFB3",
+"pointer_sources": [
+"0x96CBEF"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 created a\nprojection of itself with Dynamax!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BFE3",
+"category": "battle_messages",
+"address": "0xA4BFE3",
+"pointer_sources": [
+"0x9674B6"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 is no longer\nDynamaxed!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4BFFE",
+"category": "battle_messages",
+"address": "0xA4BFFE",
+"pointer_sources": [
+"0x96600D"
+],
+"byte_length": 57,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\0F shook its\nhead.\n\nIt seems like it can’t use\nthis move\\.\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4C069",
+"category": "battle_messages",
+"address": "0xA4C069",
+"pointer_sources": [
+"0x96C86D"
+],
+"byte_length": 46,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"The item was blocked by the\npower of Dynamax!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4C097",
+"category": "battle_messages",
+"address": "0xA4C097",
+"pointer_sources": [
+"0x9BBF38"
+],
+"byte_length": 26,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 appears\nto be massive!\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4C200",
+"category": "battle_messages",
+"address": "0xA4C200",
+"pointer_sources": [
+"0x966B15",
+"0x96CF21"
+],
+"byte_length": 11,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13’s \\\\00\n[player]\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4C20B",
+"category": "battle_messages",
+"address": "0xA4C20B",
+"pointer_sources": [
+"0x96606B"
+],
+"byte_length": 62,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\13 nullified the\nstat changes and Abilities of\\lother Pokémon!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4C2EB",
+"category": "battle_messages",
+"address": "0xA4C2EB",
+"pointer_sources": [
+"0x966E48",
+"0x966E6F"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\CC101100[rival] disappeared\nsomewhere\\.\n\n\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4CA3C",
+"category": "battle_messages",
+"address": "0xA4CA3C",
+"pointer_sources": [
+"0x966DE9"
+],
+"byte_length": 50,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"Would you like to forfeit the match\nand quit now?\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4CA91",
+"category": "battle_messages",
+"address": "0xA4CA91",
+"pointer_sources": [
+"0x966D74",
+"0x966D84"
+],
+"byte_length": 24,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"\\\\23 forfeited the match!\"",
+"source_kinds": [
+"fa"
+]
+},
+{
+"id": "v7_0A4D56C",
+"category": "battle_messages",
+"address": "0xA4D56C",
+"pointer_sources": [
+"0xA1B3C"
+],
+"byte_length": 89,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[player] used the\n[buffer2].\n\nThe chance of encountering strong\nwild Pokémon in this area increased.[pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4D5C5",
+"category": "battle_messages",
+"address": "0xA4D5C5",
+"pointer_sources": [
+"0xA1AEC"
+],
+"byte_length": 87,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[player] used the\n[buffer2].\n\nThe chance of encountering weak\nwild Pokémon in this area increased.[pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4D8A4",
+"category": "battle_messages",
+"address": "0xA4D8A4",
+"pointer_sources": [
+"0x9FFF94"
+],
+"byte_length": 100,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[player] scurried to the nearest healer,\nprotecting the exhausted and fainted\nPokémon from further harm\\.\n\n\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4E240",
+"category": "battle_messages",
+"address": "0xA4E240",
+"pointer_sources": [
+"0xA01FC0"
+],
+"byte_length": 54,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[buffer1] became more friendly.\nHowever, its base [buffer2] fell![pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4E299",
+"category": "battle_messages",
+"address": "0xA4E299",
+"pointer_sources": [
+"0xA01FE8"
+],
+"byte_length": 55,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[buffer1] became more friendly.\nIts base [buffer2] can’t go lower.[pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_0A4E397",
+"category": "battle_messages",
+"address": "0xA4E397",
+"pointer_sources": [
+"0xA024EC"
+],
+"byte_length": 39,
+"is_pointer_based": true,
+"table_name": "v7.cfruBattle",
+"original": "\"[buffer1]’s Ability has been\nchanged to [buffer2].[pause]\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_1EEE896",
+"category": "v7_texts",
+"address": "0x1EEE896",
+"pointer_sources": [
+"0x1E5B179"
+],
+"byte_length": 10,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"the radio\"",
+"source_kinds": [
+"bufferstring"
+]
+},
+{
+"id": "v7_1F18318",
+"category": "v7_texts",
+"address": "0x1F18318",
+"pointer_sources": [
+"0x1E7344B"
+],
+"byte_length": 90,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"And that goes for your little mob,\nthe \\qoBlack [player]\\qc, too.\n\nCute of you to try and muscle in.\"",
+"source_kinds": [
+"bufferstring"
+]
+},
+{
+"id": "v7_1F31CBA",
+"category": "v7_texts",
+"address": "0x1F31CBA",
+"pointer_sources": [
+"0x1E57D46"
+],
+"byte_length": 53,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Tch\\. maybe I’m more out of\npractice than I realized\\.\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1F352F0",
+"category": "v7_texts",
+"address": "0x1F352F0",
+"pointer_sources": [
+"0x1E89C86"
+],
+"byte_length": 51,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"Curses\\.\n\nScientists, activate\nthe backup plan, now!\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1F35323",
+"category": "v7_texts",
+"address": "0x1F35323",
+"pointer_sources": [
+"0x1E89C8A"
+],
+"byte_length": 31,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"I’m sorry I failed you, ma’am!\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1F49A85",
+"category": "v7_texts",
+"address": "0x1F49A85",
+"pointer_sources": [
+"0x1E5F61D"
+],
+"byte_length": 30,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"No\\. I refuse to admit defeat!\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1F5311B",
+"category": "v7_texts",
+"address": "0x1F5311B",
+"pointer_sources": [
+"0x1FE67CC"
+],
+"byte_length": 23,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"bored look on its face\"",
+"source_kinds": [
+"aligned"
+]
+},
+{
+"id": "v7_1F67DF5",
+"category": "v7_texts",
+"address": "0x1F67DF5",
+"pointer_sources": [
+"0x1E89526"
+],
+"byte_length": 48,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"I really shouldn’t have tempted fate\nlike that\\.\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1F8667A",
+"category": "v7_texts",
+"address": "0x1F8667A",
+"pointer_sources": [
+"0x1E9C6D3"
+],
+"byte_length": 27,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"No!\n\nI’m too young to lose!\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1FA8E84",
+"category": "v7_texts",
+"address": "0x1FA8E84",
+"pointer_sources": [
+"0x1EAC4F2",
+"0x1EAC521"
+],
+"byte_length": 64,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"We called in the Black Ferrothorn\nto help us expand our empire.\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1FA8EC4",
+"category": "v7_texts",
+"address": "0x1FA8EC4",
+"pointer_sources": [
+"0x1EAC4FA",
+"0x1EAC529"
+],
+"byte_length": 43,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"One kid isn’t going to stop the\nexpansion.\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1FA8F33",
+"category": "v7_texts",
+"address": "0x1FA8F33",
+"pointer_sources": [
+"0x1EAC502",
+"0x1EAC531"
+],
+"byte_length": 105,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"The Seaport Burglar Society fights\nwith honour!\n\nWe won’t challenge you if you don’t\nhave enough Pokémon.\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1FA9155",
+"category": "v7_texts",
+"address": "0x1FA9155",
+"pointer_sources": [
+"0x1EAC4F6",
+"0x1EAC51D"
+],
+"byte_length": 104,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"These burglars used to run things\naround here.\n\nSo we, the Black Ferrothorn,\nstepped in to help ’em out!\"",
+"source_kinds": [
+"trainerbattle"
+]
+},
+{
+"id": "v7_1FA9202",
+"category": "v7_texts",
+"address": "0x1FA9202",
+"pointer_sources": [
+"0x1EAC506",
+"0x1EAC52D"
+],
+"byte_length": 118,
+"is_pointer_based": true,
+"table_name": "v7.misc",
+"original": "\"We showed up to help these burglars\naround here.\n\nBut they don’t need help against\nsomeone with as few Pokémon as\\lyou!\"",
+"source_kinds": [
+"trainerbattle"
+]
+}
+]

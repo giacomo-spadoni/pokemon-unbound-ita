@@ -66,6 +66,7 @@ T = {
     'scr_1EEAD3D': 'Sono sicura che [buffer2] adorerà questa torta.¶Ti prego, prendi questi in cambio del tuo duro lavoro, giovane Allenatore.',
     'scr_1F9CD8C': 'Ci siamo dimenticati di fare un regalo a chi mi ha aiutato!',
     'scr_1FAE9B4': 'Oh, mi ricordo di te!¶Ci hai aiutato nella Palestra di Borgo Dresco!¶Per questo puoi avere questi cinque Revitalizzanti.',
+    'scr_8CE9CB': 'Ti do il benvenuto in Pokémon Unbound!¶Prima di iniziare, tieni presente che questo è un fangame senza scopo di lucro.¶Se hai pagato per questo gioco, chiedi subito il rimborso!',
     'scr_1FA20B1': 'Bene, ragazzi! È il momento della resa dei conti!¶Appena la bomba esplode, fategliela vedere ai Ferrothorn Neri!¶Fate sì che si spaventino così tanto da cominciare a chiamarci il Terrore [player]!',
     'scr_1F92746': '[black]La Stampa [green][buffer1][black] è stata aggiunta alla Carta della Frontiera di [player]!',
 }
@@ -90,6 +91,13 @@ RAW = {
     'tbl_battle_messages_00018_A4B440': BB + '38 Ventoincoda\nè finito!',
     'tbl_battle_messages_00019_A4B460': BB + '38 Fortuncanto\nè finito!',
     'tbl_menu_pokemon_00016_A4E15D': 'Servono [buffer1] Pokémon.',
+    # stat messages: whole Italian phrases (the verb after an adverb is suppressed by v7_code.py)
+    'tbl_battle_messages_00224_3FCB41': 'sale di molto!',
+    'tbl_battle_messages_00226_3FCB50': 'cala a picco!',
+    'tbl_battle_messages_00000_883590': 'sale moltissimo!',
+    'tbl_battle_messages_00000_A4C603': 'sale moltissimo!',
+    'tbl_battle_messages_00001_8835A0': 'cala moltissimo!',
+    'tbl_battle_messages_00001_A4C610': 'cala moltissimo!',
 }
 FIXBS = ['tbl_battle_messages_%s' % k for k in (
     '00000_905690', '00001_9056B4', '00002_905770', '00003_905A30', '00004_905A50', '00005_905C25',
@@ -168,6 +176,74 @@ def extra(by):
             x['translated_fixed'] = t
         x['manual_fix'] = 'megacheck'
     print(f'megacheck: grezzi {len(RAW)} | segnaposti {len(FIXBS)} | nomi allenatori {n} | sostituzioni {len(REPL)} | da rivedere {bad}')
+    flex(by)
+
+
+# v7: player addressed in the masculine -> neutral. Whole text is flattened, edited and wrapped again.
+FLEX = {
+    'scr_19F217': [('Sei stato a pescare?', 'Hai provato a pescare?')],
+    'scr_1A5B4A': [('sei un vero amico!', 'sei un tesoro!')],
+    'scr_753675': [('Sei sceso dalla montagna?', 'Vieni giù dalla montagna?')],
+    'scr_1F61AC4': [('Sei sceso dalla montagna?', 'Vieni giù dalla montagna?')],
+    'scr_1EE3151': [('Sei tornato!', 'Eccoti di nuovo!')],
+    'scr_1EFC612': [('se sei riuscito ad arrivare', 'se hai potuto arrivare')],
+    'scr_1EFC6F4': [('se sei riuscito ad arrivare', 'se hai potuto arrivare')],
+    'scr_1F49264': [('da dove sei venuto!', 'da dove vieni!')],
+    'scr_1F9E3FB': [('da dove sei venuto!', 'da dove vieni!')],
+    'scr_1F86991': [('quello che sei venuto a fare', 'quello per cui sei qui')],
+    'scr_1F877ED': [('alla fine sei arrivato,', 'alla fine eccoti qui,')],
+    'scr_1F9E745': [('Sei arrivato giusto in tempo,', 'Arrivi giusto in tempo,')],
+    'scr_1F9F3A3': [('Sei pronto a riprovarci,', 'Te la senti di riprovarci,')],
+    'scr_1F7C123': [('sei un vero campione.', 'hai la stoffa del campione.')],
+    'scr_1F5405D': [('che tu sia venuto fin qui!', 'di vederti qui!')],
+    'scr_1F540CF': [('Sono commosso che tu sia venuto fin qui,', 'Mi commuove vederti qui,')],
+    'scr_1F4D924': [('che sei venuto qui', 'che sei qui')],
+    'scr_1EF4CFC': [('sei disposto a separarti', 'vuoi separarti')],
+    'scr_1EF4F91': [('sei disposto a cedere', 'vuoi cedere')],
+    'scr_1EF83B9': [("sei un vero maestro dell{B4}allevamento.", "l{B4}allevamento non ha più segreti per te.")],
+    'scr_1EF84A1': [("sei un vero maestro dell{B4}allevamento.", "l{B4}allevamento non ha più segreti per te.")],
+    'scr_1F98B99': [('se sei interessato a fare acquisti', 'se ti interessa fare acquisti')],
+    'scr_1F740D9': [('sarai sicuro di ottenere', 'otterrai di sicuro')],
+    'scr_1F823C3': [('Sarai il nuovo arrivato nella nostra sfida giornaliera?', 'Vuoi partecipare alla nostra sfida giornaliera?')],
+    'scr_1FA6CEC': [('Quel ragazzo sembra terribilmente familiare', 'Quella faccia mi sembra terribilmente familiare'),
+                    ('sei quel piccolo teppista che si è immischiato', 'sei quella peste che si è immischiata'),
+                    ('sei andato a disturbare i miei ragazzi', 'hai dato fastidio ai miei ragazzi')],
+    'scr_1F33067': [('un [buffer1] che esce', 'qualcuno che esce'), ('sei stato rapito?', 'ti hanno rapito?')],
+}
+FLEX_DROP = {'scr_1F33067'}
+
+
+def flex(by):
+    BSL = chr(92)
+    ok = bad = 0
+    for i, pairs in FLEX.items():
+        x = by[i]
+        orig = x['original'].strip('"')
+        cur = x.get('translated_fixed') or x['translated']
+        flat = cur.replace(BSL + 'p', '¶').replace('\n\n', '¶').replace('\n', ' ').replace(BSL + 'l', ' ')
+        flat = re.sub(' *¶ *', '¶', re.sub('  +', ' ', flat))
+        for a, b in pairs:
+            pat = r'\s*'.join(re.escape(w) for w in a.split(' '))
+            pat = pat.replace(r'\s*', r'[ ¶]+')
+            assert re.search(pat, flat), (i, a)
+            flat = re.sub(pat, lambda m: b, flat, count=1)
+        final, W = ET.layout(flat, orig)
+        p = []
+        tf, to = collections.Counter(ET.tokens(final)), collections.Counter(ET.tokens(orig))
+        if (tf - to) if i in FLEX_DROP else (tf != to):
+            p.append(f'token {dict(tf)} / {dict(to)}')
+        if any(ET.px(l.strip()) > W for l in ET.BREAKS.split(final) if l.strip()) and ET.BREAKS.search(orig.rstrip()):
+            p.append('riga troppo larga')
+        if x.get('translated_fixed') or not x.get('pointer_sources'):
+            p.append('spazio fisso')
+        if p:
+            bad += 1
+            print('NO', i, '; '.join(p), repr(final))
+            continue
+        x['translated'] = final
+        x['manual_fix'] = 'v7-neutral'
+        ok += 1
+    print(f'forme neutre: {ok} ok, {bad} da rivedere')
 
 
 def main(src, dst):
